@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Making Appointment TestSuite" time="16.245" tests="5" failures="0" errors="0">
+   <testsuite name="Making Appointment TestSuite" tests="5" failures="0" errors="0" time="16.245" skipped="0" timestamp="2022-04-04 16:58:42" hostname="katalon - 192.168.1.102" id="Test Suites/TS Cure Healthcare Service/Making Appointment TestSuite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/katalon/git/MohitTestOpsRepo/Reports/20220404_165819/TS Cure Healthcare Service/Making Appointment TestSuite/20220404_165819"/>
+         <property name="logFiles" value="/Users/katalon/git/MohitTestOpsRepo/Reports/20220404_165819/TS Cure Healthcare Service/Making Appointment TestSuite/20220404_165819/execution0.log"/>
+         <property name="attachments" value="/Users/katalon/git/MohitTestOpsRepo/Reports/20220404_165819/TS Cure Healthcare Service/Making Appointment TestSuite/20220404_165819/1649071732486.png, /Users/katalon/git/MohitTestOpsRepo/Reports/20220404_165819/TS Cure Healthcare Service/Making Appointment TestSuite/20220404_165819/1649071732990.png, /Users/katalon/git/MohitTestOpsRepo/Reports/20220404_165819/TS Cure Healthcare Service/Making Appointment TestSuite/20220404_165819/1649071733462.png, /Users/katalon/git/MohitTestOpsRepo/Reports/20220404_165819/TS Cure Healthcare Service/Making Appointment TestSuite/20220404_165819/1649071734570.png"/>
+         <property name="hostName" value="katalon - 192.168.1.102"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="8.2.5.208"/>
+         <property name="browser" value="Chrome 99.0.4844.84"/>
+         <property name="hostAddress" value="192.168.1.102"/>
+         <property name="sessionId" value="592ef9eb9f8f2b6ffdb81162fa4814c6"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=false }"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/TC Web Application/CURA Healthcare Service/Appointment/Open Browser" time="8.06" classname="Test Cases/TC Web Application/CURA Healthcare Service/Appointment/Open Browser" status="PASSED">
+         <system-out><![CDATA[2022-04-04 16:58:42 - [TEST_CASE][PASSED] - Test Cases/TC Web Application/CURA Healthcare Service/Appointment/Open Browser: Test Cases/TC Web Application/CURA Healthcare Service/Appointment/Open Browser
+
+2022-04-04 16:58:42 - [TEST_STEP][PASSED] - Start listener action : enableSauceLabs: [SAUCELABS] Saucelabs Plugin will not attempt to auto update job status and information !
+
+2022-04-04 16:58:42 - [MESSAGE][INFO] - [SAUCELABS] Current run configuration: Chrome
+
+2022-04-04 16:58:42 - [MESSAGE][INFO] - [SAUCELABS] Saucelabs Plugin will not attempt to auto update job status and information !
+
+2022-04-04 16:58:42 - [TEST_STEP][PASSED] - openBrowser(URL): Browser is opened with url: 'https://katalon-demo-cura.herokuapp.com/'
+
+2022-04-04 16:58:43 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-04-04 16:58:43 - [MESSAGE][INFO] - User set preference: ['Download_prefs', '{download.default_directory=//Users//katalon//Documents//Downld, download.directory_upgrade=true, download.prompt_for_download=false, plugins.always_open_pdf_externally=true, profile.default_content_settings.popups=0, profile.content_settings.exceptions.automatic_downloads.*.setting=1}']
+
+2022-04-04 16:58:43 - [MESSAGE][INFO] - User set preference: ['DevToolsActivePort_args', '[--no-sandbox, --disable-dev-shm-usage]']
+
+2022-04-04 16:58:43 - [MESSAGE][INFO] - User set preference: ['MOHIT_useAutomationExtension', 'false']
+
+2022-04-04 16:58:43 - [MESSAGE][INFO] - User set preference: ['MObILEView-mobileEmulation', '{deviceName=Nexus 5}']
+
+2022-04-04 16:58:43 - [MESSAGE][INFO] - User set preference: ['local connections are not allowed_args', '[--disable-notifications, --ignore-ssl-errors=yes, --ignore-certificate-errors]']
+
+2022-04-04 16:58:43 - [MESSAGE][INFO] - User set preference: ['Chromeprofile_args', '[user-data-dir=/Users/katalon/Library/Application Support/Google/Chrome, profile-directory=Default]']
+
+2022-04-04 16:58:43 - [MESSAGE][INFO] - User set preference: ['WindowSize_args', '[--window-size=1500,1000]']
+
+2022-04-04 16:58:43 - [MESSAGE][INFO] - User set preference: ['agrs', '[--start-maximized]']
+
+2022-04-04 16:58:43 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-04-04 16:58:49 - [MESSAGE][PASSED] - Browser is opened with url: 'https://katalon-demo-cura.herokuapp.com/'
+
+2022-04-04 16:58:49 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2022-04-04 16:58:49 - [MESSAGE][PASSED] - Current window maximized
+
+2022-04-04 16:58:49 - [TEST_STEP][PASSED] - strTitle = getWindowTitle(): Current window's title is: 'CURA Healthcare Service'
+
+2022-04-04 16:58:49 - [MESSAGE][PASSED] - Current window's title is: 'CURA Healthcare Service'
+
+2022-04-04 16:58:49 - [TEST_STEP][PASSED] - verifyMatch(strTitle, "CURA Healthcare Service", false): Actual text 'CURA Healthcare Service' and expected text 'CURA Healthcare Service' are matched 
+
+2022-04-04 16:58:49 - [MESSAGE][PASSED] - Actual text 'CURA Healthcare Service' and expected text 'CURA Healthcare Service' are matched 
+
+2022-04-04 16:58:49 - [TEST_STEP][PASSED] - Start listener action : autoUpdateJobStatus: [SAUCELABS] Current run configuration: Chrome
+
+2022-04-04 16:58:49 - [MESSAGE][INFO] - [SAUCELABS] Current run configuration: Chrome]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC Web Application/CURA Healthcare Service/Appointment/Click on Login Link" time="1.836" classname="Test Cases/TC Web Application/CURA Healthcare Service/Appointment/Click on Login Link" status="PASSED">
+         <system-out><![CDATA[2022-04-04 16:58:50 - [TEST_CASE][PASSED] - Test Cases/TC Web Application/CURA Healthcare Service/Appointment/Click on Login Link: Test Cases/TC Web Application/CURA Healthcare Service/Appointment/Click on Login Link
+
+2022-04-04 16:58:50 - [TEST_STEP][PASSED] - Start listener action : enableSauceLabs: [SAUCELABS] Saucelabs Plugin will not attempt to auto update job status and information !
+
+2022-04-04 16:58:50 - [MESSAGE][INFO] - [SAUCELABS] Current run configuration: Chrome
+
+2022-04-04 16:58:50 - [MESSAGE][INFO] - [SAUCELABS] Saucelabs Plugin will not attempt to auto update job status and information !
+
+2022-04-04 16:58:50 - [TEST_STEP][PASSED] - click(findTestObject("OR Web Application/CURA Healthcare Service/Home Page/menu-toggle")): Object: 'Object Repository/OR Web Application/CURA Healthcare Service/Home Page/menu-toggle' is clicked on
+
+2022-04-04 16:58:50 - [MESSAGE][PASSED] - Object: 'Object Repository/OR Web Application/CURA Healthcare Service/Home Page/menu-toggle' is clicked on
+
+2022-04-04 16:58:50 - [TEST_STEP][PASSED] - click(findTestObject("OR Web Application/CURA Healthcare Service/Home Page/Login link")): Object: 'Object Repository/OR Web Application/CURA Healthcare Service/Home Page/Login link' is clicked on
+
+2022-04-04 16:58:51 - [MESSAGE][PASSED] - Object: 'Object Repository/OR Web Application/CURA Healthcare Service/Home Page/Login link' is clicked on
+
+2022-04-04 16:58:51 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("OR Web Application/CURA Healthcare Service/Login Page/Please login to make appointment"), "Please login to make appointment."): Actual text and expected text of test object 'Object Repository/OR Web Application/CURA Healthcare Service/Login Page/Please login to make appointment' are matched.
+
+2022-04-04 16:58:51 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/OR Web Application/CURA Healthcare Service/Login Page/Please login to make appointment' are matched.
+
+2022-04-04 16:58:51 - [TEST_STEP][PASSED] - Start listener action : autoUpdateJobStatus: [SAUCELABS] Current run configuration: Chrome
+
+2022-04-04 16:58:51 - [MESSAGE][INFO] - [SAUCELABS] Current run configuration: Chrome]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC Web Application/CURA Healthcare Service/Appointment/Login Application" time="3.416" classname="Test Cases/TC Web Application/CURA Healthcare Service/Appointment/Login Application" status="PASSED">
+         <system-out><![CDATA[2022-04-04 16:58:52 - [TEST_CASE][PASSED] - Test Cases/TC Web Application/CURA Healthcare Service/Appointment/Login Application: Test Cases/TC Web Application/CURA Healthcare Service/Appointment/Login Application
+
+2022-04-04 16:58:52 - [TEST_STEP][PASSED] - Start listener action : enableSauceLabs: [SAUCELABS] Saucelabs Plugin will not attempt to auto update job status and information !
+
+2022-04-04 16:58:52 - [MESSAGE][INFO] - [SAUCELABS] Current run configuration: Chrome
+
+2022-04-04 16:58:52 - [MESSAGE][INFO] - [SAUCELABS] Saucelabs Plugin will not attempt to auto update job status and information !
+
+2022-04-04 16:58:52 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2022-04-04 16:58:52 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|/Users/katalon/git/MohitTestOpsRepo/Reports/20220404_165819/TS Cure Healthcare Service/Making Appointment TestSuite/20220404_165819/1649071732486.png]]
+
+2022-04-04 16:58:52 - [TEST_STEP][PASSED] - sendKeys(findTestObject("OR Web Application/CURA Healthcare Service/Login Page/input_Username"), username): Keys 'John Doe' sent to object: 'Object Repository/OR Web Application/CURA Healthcare Service/Login Page/input_Username'
+
+2022-04-04 16:58:52 - [MESSAGE][PASSED] - Keys 'John Doe' sent to object: 'Object Repository/OR Web Application/CURA Healthcare Service/Login Page/input_Username'
+
+2022-04-04 16:58:52 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2022-04-04 16:58:53 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|/Users/katalon/git/MohitTestOpsRepo/Reports/20220404_165819/TS Cure Healthcare Service/Making Appointment TestSuite/20220404_165819/1649071732990.png]]
+
+2022-04-04 16:58:53 - [TEST_STEP][PASSED] - sendKeys(findTestObject("OR Web Application/CURA Healthcare Service/Login Page/input_Password"), password): Keys 'ThisIsNotAPassword' sent to object: 'Object Repository/OR Web Application/CURA Healthcare Service/Login Page/input_Password'
+
+2022-04-04 16:58:53 - [MESSAGE][PASSED] - Keys 'ThisIsNotAPassword' sent to object: 'Object Repository/OR Web Application/CURA Healthcare Service/Login Page/input_Password'
+
+2022-04-04 16:58:53 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2022-04-04 16:58:53 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|/Users/katalon/git/MohitTestOpsRepo/Reports/20220404_165819/TS Cure Healthcare Service/Making Appointment TestSuite/20220404_165819/1649071733462.png]]
+
+2022-04-04 16:58:53 - [TEST_STEP][PASSED] - click(findTestObject("OR Web Application/CURA Healthcare Service/Login Page/button_Login")): Object: 'Object Repository/OR Web Application/CURA Healthcare Service/Login Page/button_Login' is clicked on
+
+2022-04-04 16:58:54 - [MESSAGE][PASSED] - Object: 'Object Repository/OR Web Application/CURA Healthcare Service/Login Page/button_Login' is clicked on
+
+2022-04-04 16:58:54 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2022-04-04 16:58:55 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|/Users/katalon/git/MohitTestOpsRepo/Reports/20220404_165819/TS Cure Healthcare Service/Making Appointment TestSuite/20220404_165819/1649071734570.png]]
+
+2022-04-04 16:58:55 - [TEST_STEP][PASSED] - Start listener action : autoUpdateJobStatus: [SAUCELABS] Current run configuration: Chrome
+
+2022-04-04 16:58:55 - [MESSAGE][INFO] - [SAUCELABS] Current run configuration: Chrome]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC Web Application/CURA Healthcare Service/Appointment/Make Appointment" time="2.384" classname="Test Cases/TC Web Application/CURA Healthcare Service/Appointment/Make Appointment" status="PASSED">
+         <system-out><![CDATA[2022-04-04 16:58:55 - [TEST_CASE][PASSED] - Test Cases/TC Web Application/CURA Healthcare Service/Appointment/Make Appointment: Test Cases/TC Web Application/CURA Healthcare Service/Appointment/Make Appointment
+
+2022-04-04 16:58:55 - [TEST_STEP][PASSED] - Start listener action : enableSauceLabs: [SAUCELABS] Saucelabs Plugin will not attempt to auto update job status and information !
+
+2022-04-04 16:58:55 - [MESSAGE][INFO] - [SAUCELABS] Current run configuration: Chrome
+
+2022-04-04 16:58:55 - [MESSAGE][INFO] - [SAUCELABS] Saucelabs Plugin will not attempt to auto update job status and information !
+
+2022-04-04 16:58:55 - [TEST_STEP][PASSED] - click(findTestObject("OR Web Application/CURA Healthcare Service/Appointment Page/Apply for hospital readmission_hospital_readmission")): Object: 'Object Repository/OR Web Application/CURA Healthcare Service/Appointment Page/Apply for hospital readmission_hospital_readmission' is clicked on
+
+2022-04-04 16:58:55 - [MESSAGE][PASSED] - Object: 'Object Repository/OR Web Application/CURA Healthcare Service/Appointment Page/Apply for hospital readmission_hospital_readmission' is clicked on
+
+2022-04-04 16:58:55 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("OR Web Application/CURA Healthcare Service/Appointment Page/facility"), Facility, false): All options with value 'Hongkong CURA Healthcare Center' are selected in object 'Object Repository/OR Web Application/CURA Healthcare Service/Appointment Page/facility' 
+
+2022-04-04 16:58:56 - [MESSAGE][PASSED] - All options with value 'Hongkong CURA Healthcare Center' are selected in object 'Object Repository/OR Web Application/CURA Healthcare Service/Appointment Page/facility' 
+
+2022-04-04 16:58:56 - [TEST_STEP][PASSED] - sendKeys(findTestObject("OR Web Application/CURA Healthcare Service/Appointment Page/Visit Date (Required)"), VisitDate): Keys '19/05/2021' sent to object: 'Object Repository/OR Web Application/CURA Healthcare Service/Appointment Page/Visit Date (Required)'
+
+2022-04-04 16:58:56 - [MESSAGE][PASSED] - Keys '19/05/2021' sent to object: 'Object Repository/OR Web Application/CURA Healthcare Service/Appointment Page/Visit Date (Required)'
+
+2022-04-04 16:58:56 - [TEST_STEP][PASSED] - sendKeys(findTestObject("OR Web Application/CURA Healthcare Service/Appointment Page/Comment_comment"), Comment): Keys 'This Test Case Make an Appointment.' sent to object: 'Object Repository/OR Web Application/CURA Healthcare Service/Appointment Page/Comment_comment'
+
+2022-04-04 16:58:56 - [MESSAGE][PASSED] - Keys 'This Test Case Make an Appointment.' sent to object: 'Object Repository/OR Web Application/CURA Healthcare Service/Appointment Page/Comment_comment'
+
+2022-04-04 16:58:56 - [TEST_STEP][PASSED] - click(findTestObject("OR Web Application/CURA Healthcare Service/Appointment Page/Book Appointment")): Object: 'Object Repository/OR Web Application/CURA Healthcare Service/Appointment Page/Book Appointment' is clicked on
+
+2022-04-04 16:58:57 - [MESSAGE][PASSED] - Object: 'Object Repository/OR Web Application/CURA Healthcare Service/Appointment Page/Book Appointment' is clicked on
+
+2022-04-04 16:58:57 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("OR Web Application/CURA Healthcare Service/Confirmation Page/Appointment Confirmation")): Object 'Object Repository/OR Web Application/CURA Healthcare Service/Confirmation Page/Appointment Confirmation' is visible
+
+2022-04-04 16:58:57 - [MESSAGE][PASSED] - Object 'Object Repository/OR Web Application/CURA Healthcare Service/Confirmation Page/Appointment Confirmation' is visible
+
+2022-04-04 16:58:57 - [TEST_STEP][PASSED] - Start listener action : autoUpdateJobStatus: [SAUCELABS] Current run configuration: Chrome
+
+2022-04-04 16:58:57 - [MESSAGE][INFO] - [SAUCELABS] Current run configuration: Chrome]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC Web Application/CURA Healthcare Service/Appointment/Logout Application" time="0.308" classname="Test Cases/TC Web Application/CURA Healthcare Service/Appointment/Logout Application" status="PASSED">
+         <system-out><![CDATA[2022-04-04 16:58:58 - [TEST_CASE][PASSED] - Test Cases/TC Web Application/CURA Healthcare Service/Appointment/Logout Application: Test Cases/TC Web Application/CURA Healthcare Service/Appointment/Logout Application
+
+2022-04-04 16:58:58 - [TEST_STEP][PASSED] - Start listener action : enableSauceLabs: [SAUCELABS] Saucelabs Plugin will not attempt to auto update job status and information !
+
+2022-04-04 16:58:58 - [MESSAGE][INFO] - [SAUCELABS] Current run configuration: Chrome
+
+2022-04-04 16:58:58 - [MESSAGE][INFO] - [SAUCELABS] Saucelabs Plugin will not attempt to auto update job status and information !
+
+2022-04-04 16:58:58 - [TEST_STEP][NOT_RUN] - click(findTestObject("OR Web Application/CURA Healthcare Service/Home Page/menu-toggle")): NOT_RUN: click(findTestObject("OR Web Application/CURA Healthcare Service/Home Page/menu-toggle"))
+
+2022-04-04 16:58:58 - [MESSAGE][NOT_RUN] - NOT_RUN: click(findTestObject("OR Web Application/CURA Healthcare Service/Home Page/menu-toggle"))
+
+2022-04-04 16:58:58 - [TEST_STEP][NOT_RUN] - click(findTestObject("OR Web Application/CURA Healthcare Service/Home Page/Logout")): NOT_RUN: click(findTestObject("OR Web Application/CURA Healthcare Service/Home Page/Logout"))
+
+2022-04-04 16:58:58 - [MESSAGE][NOT_RUN] - NOT_RUN: click(findTestObject("OR Web Application/CURA Healthcare Service/Home Page/Logout"))
+
+2022-04-04 16:58:58 - [TEST_STEP][NOT_RUN] - closeBrowser(): NOT_RUN: closeBrowser()
+
+2022-04-04 16:58:58 - [MESSAGE][NOT_RUN] - NOT_RUN: closeBrowser()
+
+2022-04-04 16:58:58 - [TEST_STEP][PASSED] - Start listener action : autoUpdateJobStatus: [SAUCELABS] Current run configuration: Chrome
+
+2022-04-04 16:58:58 - [MESSAGE][INFO] - [SAUCELABS] Current run configuration: Chrome]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-04-04 16:58:42 - [TEST_SUITE][PASSED] - Making Appointment TestSuite: Test Cases/TC Web Application/CURA Healthcare Service/Appointment/Logout Application]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

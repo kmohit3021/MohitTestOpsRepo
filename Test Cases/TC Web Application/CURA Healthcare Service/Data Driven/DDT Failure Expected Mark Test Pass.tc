@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This my Data Driveb Test case</description>
+   <name>DDT Failure Expected Mark Test Pass</name>
+   <tag>DataDriven</tag>
+   <comment></comment>
+   <testCaseGuid>2f966447-09d1-499f-903b-dfbeb786cdd0</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>321b10a4-3abd-4f12-b1f1-e80786f46239</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7cf95159-3e8d-43c3-8008-04da14807d2a</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

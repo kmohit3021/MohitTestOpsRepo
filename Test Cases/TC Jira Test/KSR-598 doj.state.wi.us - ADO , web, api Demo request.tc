@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Summary: doj.state.wi.us - ADO , web, api Demo request 
+Description: 
+Hi team, 
+
+Could you share with me if you are up for a demo for ADO  Functional testing for web and API?
+
+* Webs services, API - mixed SOAP XML, REsful with Json . Ideally something that you can run on the test, on demand,
+* The principle on how Azure Devop work swith Katalon</description>
+   <name>KSR-598 doj.state.wi.us - ADO , web, api Demo request</name>
+   <tag>jira-integration</tag>
+   <integratedEntity>
+      <productName>JIRA</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;jiraIssue&quot;:{&quot;fields&quot;:{&quot;customFields&quot;:{&quot;customfield_10150&quot;:[],&quot;customfield_10018&quot;:[],&quot;customfield_10010&quot;:&quot;2021-08-17T00:11:29.690+0700&quot;,&quot;customfield_10007&quot;:{&quot;hasEpicLinkFieldDependency&quot;:false,&quot;showField&quot;:false,&quot;nonEditableReason&quot;:{&quot;reason&quot;:&quot;PLUGIN_LICENSE_ERROR&quot;,&quot;message&quot;:&quot;The Parent Link is only available to Jira Premium users.&quot;}},&quot;customfield_10009&quot;:&quot;0|i08hqv:&quot;,&quot;customfield_10085&quot;:[{&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/customFieldOption/10144&quot;,&quot;value&quot;:&quot;Studio&quot;,&quot;id&quot;:&quot;10144&quot;}],&quot;customfield_10000&quot;:&quot;{}&quot;},&quot;status&quot;:{&quot;id&quot;:10129,&quot;description&quot;:&quot;&quot;,&quot;iconUrl&quot;:&quot;https://katalon.atlassian.net/&quot;,&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/status/10129&quot;,&quot;name&quot;:&quot;[CS] In Progress&quot;},&quot;project&quot;:{&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/project/10058&quot;,&quot;key&quot;:&quot;KSR&quot;,&quot;id&quot;:10058,&quot;name&quot;:&quot;Katalon Support Request&quot;},&quot;components&quot;:[],&quot;summary&quot;:&quot;doj.state.wi.us - ADO , web, api Demo request &quot;,&quot;description&quot;:&quot;\r\nHi team, \r\n\r\nCould you share with me if you are up for a demo for ADO  Functional testing for web and API?\r\n\r\n* Webs services, API - mixed SOAP XML, REsful with Json . Ideally something that you can run on the test, on demand,\r\n* The principle on how Azure Devop work swith Katalon&quot;,&quot;reporter&quot;:{&quot;emailAddress&quot;:&quot;ngoc.huynh@katalon.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;ngoc.huynh&quot;,&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/user?accountId\u003d5f9671b0048052006bd25322&quot;},&quot;assignee&quot;:{&quot;emailAddress&quot;:&quot;mohit.kumar@katalon.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;mohit.kumar&quot;,&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/user?accountId\u003d6093a042539c14006ad201b5&quot;},&quot;priority&quot;:{&quot;id&quot;:3,&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/priority/3&quot;,&quot;name&quot;:&quot;Medium&quot;},&quot;votes&quot;:{&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/issue/KSR-598/votes&quot;,&quot;votes&quot;:0,&quot;hasVoted&quot;:false},&quot;fixVersions&quot;:[],&quot;subtasks&quot;:[],&quot;labels&quot;:[]},&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/issue/60438&quot;,&quot;key&quot;:&quot;KSR-598&quot;,&quot;id&quot;:60438}}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment>2021-08-17T00:11:29.690+0700</comment>
+   <testCaseGuid>211a1701-2aae-4743-8d4f-9c3c830cbc1b</testCaseGuid>
+</TestCaseEntity>

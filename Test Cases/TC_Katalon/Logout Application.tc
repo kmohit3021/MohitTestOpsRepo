@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>&lt;p>&amp;lt;p&amp;gt;This is for appliction Logout&amp;lt;/p&amp;gt;&lt;/p></description>
+   <name>Logout Application</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0fe853db-2b6f-4e67-becd-5fb02dfbc41e</testCaseGuid>
+</TestCaseEntity>

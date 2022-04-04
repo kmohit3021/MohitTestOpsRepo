@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-25 TC0002</name>
+   <tag></tag>
+   <comment>Step 1: [Step Description: open browser, Expected Result: ]
+Step 2: [Step Description: Verify application title, Expected Result: ]</comment>
+   <testCaseGuid>72d4776c-c73f-4338-af08-42bde090c7cd</testCaseGuid>
+</TestCaseEntity>

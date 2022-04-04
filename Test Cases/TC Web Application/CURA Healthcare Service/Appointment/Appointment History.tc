@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case check how many no of appointment for the date.</description>
+   <name>Appointment History</name>
+   <tag>History</tag>
+   <comment></comment>
+   <testCaseGuid>92d41ae6-aa36-4620-ae2b-206e4486d315</testCaseGuid>
+</TestCaseEntity>

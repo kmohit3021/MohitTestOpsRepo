@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Summary: Technical Demo to testing team of Knowit - Sep 22 at 14.30 GMT+7
+Description: Hi Team,
+
+This comes on occasion of a monthly meeting of 9 test engineers and 2 from management at Knowit (large IT consultancy company).
+
+Here are the notes of lead tester Jon Anders Gutevall for what they need in their toolbox :
+
+* CD/CI – devops
+* Test automation – Click and record
+* Test automation – Coding of tests
+* Functional automatic backend test
+* API
+* DB
+* Functional automatic frontend
+* Cypress
+* OS/Device
+* Cross browser functions
+* Performance test
+* Automation of system tests
+* Automation of integration tests
+* Automation of acceptance testing (UAT)
+* BDD / Cucumber
+* Universal design/User Interface(UI)
+* Security test
+* OWASP support
+* Source control
+* Characteristics/properties, Support/training, Ecosystem, Pricing, License model
+
+Many thanks for your awesome support </description>
+   <name>KSR-641 Technical Demo to testing team of Knowit - Sep 22 at 14.30 GMT7</name>
+   <tag>jira-integration</tag>
+   <integratedEntity>
+      <productName>JIRA</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;jiraIssue&quot;:{&quot;fields&quot;:{&quot;customFields&quot;:{&quot;customfield_10150&quot;:[],&quot;customfield_10018&quot;:[],&quot;customfield_10010&quot;:&quot;2021-08-26T17:45:34.006+0700&quot;,&quot;customfield_10007&quot;:{&quot;hasEpicLinkFieldDependency&quot;:false,&quot;showField&quot;:false,&quot;nonEditableReason&quot;:{&quot;reason&quot;:&quot;PLUGIN_LICENSE_ERROR&quot;,&quot;message&quot;:&quot;The Parent Link is only available to Jira Premium users.&quot;}},&quot;customfield_10009&quot;:&quot;0|i08k6n:&quot;,&quot;customfield_10080&quot;:&quot;Knowit&quot;,&quot;customfield_10081&quot;:{&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/customFieldOption/10137&quot;,&quot;value&quot;:&quot;Enterprise&quot;,&quot;id&quot;:&quot;10137&quot;},&quot;customfield_10085&quot;:[{&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/customFieldOption/10144&quot;,&quot;value&quot;:&quot;Studio&quot;,&quot;id&quot;:&quot;10144&quot;},{&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/customFieldOption/10145&quot;,&quot;value&quot;:&quot;TestOps&quot;,&quot;id&quot;:&quot;10145&quot;}],&quot;customfield_10000&quot;:&quot;{}&quot;},&quot;status&quot;:{&quot;id&quot;:10129,&quot;description&quot;:&quot;&quot;,&quot;iconUrl&quot;:&quot;https://katalon.atlassian.net/&quot;,&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/status/10129&quot;,&quot;name&quot;:&quot;[CS] In Progress&quot;},&quot;project&quot;:{&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/project/10058&quot;,&quot;key&quot;:&quot;KSR&quot;,&quot;id&quot;:10058,&quot;name&quot;:&quot;Katalon Support Request&quot;},&quot;components&quot;:[],&quot;summary&quot;:&quot;Technical Demo to testing team of Knowit - Sep 22 at 14.30 GMT+7&quot;,&quot;description&quot;:&quot;Hi Team,\r\n\r\nThis comes on occasion of a monthly meeting of 9 test engineers and 2 from management at Knowit (large IT consultancy company).\r\n\r\nHere are the notes of lead tester Jon Anders Gutevall for what they need in their toolbox :\r\n\r\n* CD/CI – devops\r\n* Test automation – Click and record\r\n* Test automation – Coding of tests\r\n* Functional automatic backend test\r\n* API\r\n* DB\r\n* Functional automatic frontend\r\n* Cypress\r\n* OS/Device\r\n* Cross browser functions\r\n* Performance test\r\n* Automation of system tests\r\n* Automation of integration tests\r\n* Automation of acceptance testing (UAT)\r\n* BDD / Cucumber\r\n* Universal design/User Interface(UI)\r\n* Security test\r\n* OWASP support\r\n* Source control\r\n* Characteristics/properties, Support/training, Ecosystem, Pricing, License model\r\n\r\nMany thanks for your awesome support &quot;,&quot;reporter&quot;:{&quot;emailAddress&quot;:&quot;guillaume.houdremont@katalon.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;guillaume.houdremont&quot;,&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/user?accountId\u003d60d00d655c64b1007153685b&quot;},&quot;assignee&quot;:{&quot;emailAddress&quot;:&quot;mohit.kumar@katalon.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;mohit.kumar&quot;,&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/user?accountId\u003d6093a042539c14006ad201b5&quot;},&quot;priority&quot;:{&quot;id&quot;:3,&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/priority/3&quot;,&quot;name&quot;:&quot;Medium&quot;},&quot;votes&quot;:{&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/issue/KSR-641/votes&quot;,&quot;votes&quot;:0,&quot;hasVoted&quot;:false},&quot;fixVersions&quot;:[],&quot;subtasks&quot;:[],&quot;labels&quot;:[]},&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/issue/60895&quot;,&quot;key&quot;:&quot;KSR-641&quot;,&quot;id&quot;:60895}}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment>2021-08-26T17:45:34.006+0700</comment>
+   <testCaseGuid>81047ba9-8187-4b8c-a543-12ed0055762e</testCaseGuid>
+</TestCaseEntity>

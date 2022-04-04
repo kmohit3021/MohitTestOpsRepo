@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Summary: Cannot create the new project
+Description: The client installed the application, but it looks like he is unable to create a new project. (photos attached)
+
+You will find attached the screenprints, also here is the message error detail:
+java.lang.InterruptedException: System could not generate internal.GlobalVariable file normally. Please check your writable permission in folder: C:\Users\JoséGarcíaENG\Katalon Studio\Nacho YB.
+at com.kms.katalon.controller.GlobalVariableController.waitForGlobalVariableClassFileAvailable(GlobalVariableController.java:82)
+at com.kms.katalon.controller.GlobalVariableController.generateGlobalVariableLibFile(GlobalVariableController.java:67)
+at com.kms.katalon.controller.ProjectController.openProjectForUI(ProjectController.java:127)
+at com.kms.katalon.composer.project.handlers.OpenProjectHandler$1.run(OpenProjectHandler.java:166)
+at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+</description>
+   <name>KSR-665 Cannot create the new project</name>
+   <tag>jira-integration</tag>
+   <integratedEntity>
+      <productName>JIRA</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;jiraIssue&quot;:{&quot;fields&quot;:{&quot;customFields&quot;:{&quot;customfield_10150&quot;:[],&quot;customfield_10018&quot;:[],&quot;customfield_10010&quot;:&quot;2021-09-01T23:06:39.524+0700&quot;,&quot;customfield_10007&quot;:{&quot;hasEpicLinkFieldDependency&quot;:false,&quot;showField&quot;:false,&quot;nonEditableReason&quot;:{&quot;reason&quot;:&quot;PLUGIN_LICENSE_ERROR&quot;,&quot;message&quot;:&quot;The Parent Link is only available to Jira Premium users.&quot;}},&quot;customfield_10009&quot;:&quot;0|i08lsf:&quot;,&quot;customfield_10085&quot;:[{&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/customFieldOption/10144&quot;,&quot;value&quot;:&quot;Studio&quot;,&quot;id&quot;:&quot;10144&quot;}],&quot;customfield_10000&quot;:&quot;{}&quot;},&quot;status&quot;:{&quot;id&quot;:10129,&quot;description&quot;:&quot;&quot;,&quot;iconUrl&quot;:&quot;https://katalon.atlassian.net/&quot;,&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/status/10129&quot;,&quot;name&quot;:&quot;[CS] In Progress&quot;},&quot;project&quot;:{&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/project/10058&quot;,&quot;key&quot;:&quot;KSR&quot;,&quot;id&quot;:10058,&quot;name&quot;:&quot;Katalon Support Request&quot;},&quot;components&quot;:[],&quot;summary&quot;:&quot;Cannot create the new project&quot;,&quot;description&quot;:&quot;The client installed the application, but it looks like he is unable to create a new project. (photos attached)\r\n\r\nYou will find attached the screenprints, also here is the message error detail:\r\njava.lang.InterruptedException: System could not generate internal.GlobalVariable file normally. Please check your writable permission in folder: C:\\Users\\JoséGarcíaENG\\Katalon Studio\\Nacho YB.\r\nat com.kms.katalon.controller.GlobalVariableController.waitForGlobalVariableClassFileAvailable(GlobalVariableController.java:82)\r\nat com.kms.katalon.controller.GlobalVariableController.generateGlobalVariableLibFile(GlobalVariableController.java:67)\r\nat com.kms.katalon.controller.ProjectController.openProjectForUI(ProjectController.java:127)\r\nat com.kms.katalon.composer.project.handlers.OpenProjectHandler$1.run(OpenProjectHandler.java:166)\r\nat org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)\r\n&quot;,&quot;reporter&quot;:{&quot;emailAddress&quot;:&quot;xavia@katalon.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;Xavia&quot;,&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/user?accountId\u003d5fbdfc4daa1d30006f0bad2f&quot;},&quot;assignee&quot;:{&quot;emailAddress&quot;:&quot;mohit.kumar@katalon.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;mohit.kumar&quot;,&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/user?accountId\u003d6093a042539c14006ad201b5&quot;},&quot;priority&quot;:{&quot;id&quot;:2,&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/priority/2&quot;,&quot;name&quot;:&quot;High&quot;},&quot;votes&quot;:{&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/issue/KSR-665/votes&quot;,&quot;votes&quot;:0,&quot;hasVoted&quot;:false},&quot;fixVersions&quot;:[],&quot;subtasks&quot;:[],&quot;labels&quot;:[]},&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/issue/61202&quot;,&quot;key&quot;:&quot;KSR-665&quot;,&quot;id&quot;:61202}}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment>2021-09-01T23:06:39.524+0700</comment>
+   <testCaseGuid>b834c199-3aaf-48b5-8314-95cdf5959cc0</testCaseGuid>
+</TestCaseEntity>

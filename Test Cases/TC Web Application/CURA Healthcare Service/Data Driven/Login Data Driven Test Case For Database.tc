@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This my Data Driveb Test case</description>
+   <name>Login Data Driven Test Case For Database</name>
+   <tag>DataDriven</tag>
+   <comment></comment>
+   <testCaseGuid>351dd1a4-6136-4016-b5b4-c3a29363b459</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Database Data').getValue('username', 1)</defaultValue>
+      <description></description>
+      <id>1ca044b5-46c9-474e-b846-4791fc5e700e</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Database Data').getValue('password', 1)</defaultValue>
+      <description></description>
+      <id>2c93ca2b-8ce4-4fe3-887b-c6c4137aac1b</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

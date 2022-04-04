@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC Rating Scale</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1057d7bb-0933-4530-a1b3-df30c640d50b</testCaseGuid>
+   <variable>
+      <defaultValue>'9'</defaultValue>
+      <description></description>
+      <id>0343a2ad-60f2-4ca6-926e-7db42caa411c</id>
+      <masked>false</masked>
+      <name>rating</name>
+   </variable>
+   <variable>
+      <defaultValue>'DT'</defaultValue>
+      <description></description>
+      <id>3a50f2ab-1feb-41d0-9c98-ed0fdd9d8d33</id>
+      <masked>false</masked>
+      <name>shortCode</name>
+   </variable>
+   <variable>
+      <defaultValue>'Default Description'</defaultValue>
+      <description></description>
+      <id>de9243c2-13d8-4449-989b-99d0cada2820</id>
+      <masked>false</masked>
+      <name>description</name>
+   </variable>
+   <variable>
+      <defaultValue>'Default Note'</defaultValue>
+      <description></description>
+      <id>f402bf19-6157-4a56-88a6-58d84f703c80</id>
+      <masked>false</masked>
+      <name>note</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Mobile Testing Mobile Browser</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a7a21d98-56c0-412f-ad49-b2c6f8109a42</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>117a00d7-670e-4110-b900-7e766e993f13</id>
+      <masked>false</masked>
+      <name>Facility</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>df4ee8fb-5022-4658-8c0d-f57add9c2c83</id>
+      <masked>false</masked>
+      <name>VisitDate</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e133ff7d-6ea7-41e1-83d4-1373ca7f8cf5</id>
+      <masked>false</masked>
+      <name>Comment</name>
+   </variable>
+</TestCaseEntity>

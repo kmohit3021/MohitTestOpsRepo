@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>User details checkpoint</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/Database data</source-url>
+   </source-info>
+   <taken-date>2022-02-15T20:11:38.704</taken-date>
+   <column-names>
+      <column-name>username</column-name>
+      <column-name>password</column-name>
+      <column-name>type</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "DBUser1",
+      "checked": false
+    },
+    {
+      "value": "DBPass1",
+      "checked": false
+    },
+    {
+      "value": "TEST",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "John Doe",
+      "checked": false
+    },
+    {
+      "value": "ThisIsNotAPassword",
+      "checked": false
+    },
+    {
+      "value": "DBTEST",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "DBUser2",
+      "checked": false
+    },
+    {
+      "value": "DBPass2",
+      "checked": false
+    },
+    {
+      "value": "TEST",
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

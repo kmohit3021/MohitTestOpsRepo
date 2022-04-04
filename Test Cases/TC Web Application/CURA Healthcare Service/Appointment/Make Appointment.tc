@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case is for making appointment</description>
+   <name>Make Appointment</name>
+   <tag>Appointment</tag>
+   <comment></comment>
+   <testCaseGuid>b8f00c9b-60df-442b-aee4-7f7e409c420f</testCaseGuid>
+   <variable>
+      <defaultValue>'Hongkong CURA Healthcare Center'</defaultValue>
+      <description></description>
+      <id>3a5237a8-de02-4bcc-97d0-166556d4175d</id>
+      <masked>false</masked>
+      <name>Facility</name>
+   </variable>
+   <variable>
+      <defaultValue>'21/02/2022'</defaultValue>
+      <description></description>
+      <id>e6a6dd4c-9add-4c82-a20c-5650ea48e1d8</id>
+      <masked>false</masked>
+      <name>VisitDate</name>
+   </variable>
+   <variable>
+      <defaultValue>'Default Value'</defaultValue>
+      <description></description>
+      <id>4fafdd75-f2c4-4ca5-b396-eb529b6ae7c4</id>
+      <masked>false</masked>
+      <name>Comment</name>
+   </variable>
+</TestCaseEntity>

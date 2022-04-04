@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Data Files - Reading Value</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cbfa4ba6-37cd-4143-acad-e8df5ac14210</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Excel Data file').getValue('username', 1)</defaultValue>
+      <description></description>
+      <id>6cdc8d48-8929-402a-993b-a6e6a28a3ca6</id>
+      <masked>false</masked>
+      <name>Test</name>
+   </variable>
+</TestCaseEntity>

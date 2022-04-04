@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Summary: Fatemah&lt;> Tosan&lt;> Demo request
+Description: Hi team,
+
+we have a client for a demo request. They are currently using Appium for Mobile, Test Complete for Desktop, and SOAPUI for API testing. they want a demo on API, mobile and desktop testing as well as a walk through of functionality on how to integrate Jenkins, git and bitbucket into their workflow.
+
+Please let me know when is a good time early next week for a call ? Does Monday 30th aug work? 
+
+</description>
+   <name>KSR-642 Fatemah Tosan Demo request</name>
+   <tag>jira-integration</tag>
+   <integratedEntity>
+      <productName>JIRA</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;jiraIssue&quot;:{&quot;fields&quot;:{&quot;customFields&quot;:{&quot;customfield_10150&quot;:[],&quot;customfield_10018&quot;:[],&quot;customfield_10010&quot;:&quot;2021-08-26T17:47:21.657+0700&quot;,&quot;customfield_10007&quot;:{&quot;hasEpicLinkFieldDependency&quot;:false,&quot;showField&quot;:false,&quot;nonEditableReason&quot;:{&quot;reason&quot;:&quot;PLUGIN_LICENSE_ERROR&quot;,&quot;message&quot;:&quot;The Parent Link is only available to Jira Premium users.&quot;}},&quot;customfield_10009&quot;:&quot;0|i08k93:&quot;,&quot;customfield_10000&quot;:&quot;{}&quot;},&quot;status&quot;:{&quot;id&quot;:10129,&quot;description&quot;:&quot;&quot;,&quot;iconUrl&quot;:&quot;https://katalon.atlassian.net/&quot;,&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/status/10129&quot;,&quot;name&quot;:&quot;[CS] In Progress&quot;},&quot;project&quot;:{&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/project/10058&quot;,&quot;key&quot;:&quot;KSR&quot;,&quot;id&quot;:10058,&quot;name&quot;:&quot;Katalon Support Request&quot;},&quot;components&quot;:[],&quot;summary&quot;:&quot;Fatemah\u003c\u003e Tosan\u003c\u003e Demo request&quot;,&quot;description&quot;:&quot;Hi team,\r\n\r\nwe have a client for a demo request. They are currently using Appium for Mobile, Test Complete for Desktop, and SOAPUI for API testing. they want a demo on API, mobile and desktop testing as well as a walk through of functionality on how to integrate Jenkins, git and bitbucket into their workflow.\r\n\r\nPlease let me know when is a good time early next week for a call ? Does Monday 30th aug work? \r\n\r\n&quot;,&quot;reporter&quot;:{&quot;emailAddress&quot;:&quot;pushkal.mehrish@katalon.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;pushkal.mehrish&quot;,&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/user?accountId\u003d60d00d72b215610069ed3408&quot;},&quot;assignee&quot;:{&quot;emailAddress&quot;:&quot;mohit.kumar@katalon.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;mohit.kumar&quot;,&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/user?accountId\u003d6093a042539c14006ad201b5&quot;},&quot;priority&quot;:{&quot;id&quot;:3,&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/priority/3&quot;,&quot;name&quot;:&quot;Medium&quot;},&quot;votes&quot;:{&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/issue/KSR-642/votes&quot;,&quot;votes&quot;:0,&quot;hasVoted&quot;:false},&quot;fixVersions&quot;:[],&quot;subtasks&quot;:[],&quot;labels&quot;:[]},&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/issue/60906&quot;,&quot;key&quot;:&quot;KSR-642&quot;,&quot;id&quot;:60906}}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment>2021-08-26T17:47:21.657+0700</comment>
+   <testCaseGuid>4614016e-e027-485f-aa8e-5c18d0d0965d</testCaseGuid>
+</TestCaseEntity>

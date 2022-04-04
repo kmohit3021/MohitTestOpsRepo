@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create an account and delete the same</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d66966a2-f3e7-4021-a9d9-ad1ebec5f58a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Failure is the expected marked test as passed" time="23.922" tests="6" failures="0" errors="0">
+   <testsuite name="Failure is the expected marked test as passed" tests="6" failures="0" errors="0" time="23.922" skipped="0" timestamp="2022-04-04 16:56:11" hostname="katalon - 192.168.1.102" id="Test Suites/TS Web Advanced/Failure is the expected marked test as passed">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/katalon/git/MohitTestOpsRepo/Reports/20220404_165548/TS Web Advanced/Failure is the expected marked test as passed/20220404_165548"/>
+         <property name="logFiles" value="/Users/katalon/git/MohitTestOpsRepo/Reports/20220404_165548/TS Web Advanced/Failure is the expected marked test as passed/20220404_165548/execution0.log"/>
+         <property name="attachments" value="/Users/katalon/git/MohitTestOpsRepo/Reports/20220404_165548/TS Web Advanced/Failure is the expected marked test as passed/20220404_165548/1649071582246.png, /Users/katalon/git/MohitTestOpsRepo/Reports/20220404_165548/TS Web Advanced/Failure is the expected marked test as passed/20220404_165548/1649071582703.png, /Users/katalon/git/MohitTestOpsRepo/Reports/20220404_165548/TS Web Advanced/Failure is the expected marked test as passed/20220404_165548/1649071583756.png, /Users/katalon/git/MohitTestOpsRepo/Reports/20220404_165548/TS Web Advanced/Failure is the expected marked test as passed/20220404_165548/1649071585096.png, /Users/katalon/git/MohitTestOpsRepo/Reports/20220404_165548/TS Web Advanced/Failure is the expected marked test as passed/20220404_165548/1649071585543.png, /Users/katalon/git/MohitTestOpsRepo/Reports/20220404_165548/TS Web Advanced/Failure is the expected marked test as passed/20220404_165548/1649071586576.png, /Users/katalon/git/MohitTestOpsRepo/Reports/20220404_165548/TS Web Advanced/Failure is the expected marked test as passed/20220404_165548/1649071587876.png, /Users/katalon/git/MohitTestOpsRepo/Reports/20220404_165548/TS Web Advanced/Failure is the expected marked test as passed/20220404_165548/1649071588362.png, /Users/katalon/git/MohitTestOpsRepo/Reports/20220404_165548/TS Web Advanced/Failure is the expected marked test as passed/20220404_165548/1649071589360.png"/>
+         <property name="hostName" value="katalon - 192.168.1.102"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="8.2.5.208"/>
+         <property name="browser" value="Chrome 99.0.4844.84"/>
+         <property name="hostAddress" value="192.168.1.102"/>
+         <property name="sessionId" value="5bfc9ecd8d1a087e9aad8021a28e032d"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=false }"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/TC Web Application/CURA Healthcare Service/Appointment/Open Browser" time="7.782" classname="Test Cases/TC Web Application/CURA Healthcare Service/Appointment/Open Browser" status="PASSED">
+         <system-out><![CDATA[2022-04-04 16:56:12 - [TEST_CASE][PASSED] - Test Cases/TC Web Application/CURA Healthcare Service/Appointment/Open Browser: Test Cases/TC Web Application/CURA Healthcare Service/Appointment/Open Browser
+
+2022-04-04 16:56:12 - [TEST_STEP][PASSED] - Start listener action : enableSauceLabs: [SAUCELABS] Saucelabs Plugin will not attempt to auto update job status and information !
+
+2022-04-04 16:56:12 - [MESSAGE][INFO] - [SAUCELABS] Current run configuration: Chrome
+
+2022-04-04 16:56:12 - [MESSAGE][INFO] - [SAUCELABS] Saucelabs Plugin will not attempt to auto update job status and information !
+
+2022-04-04 16:56:12 - [TEST_STEP][PASSED] - openBrowser(URL): Browser is opened with url: 'https://katalon-demo-cura.herokuapp.com/'
+
+2022-04-04 16:56:12 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-04-04 16:56:12 - [MESSAGE][INFO] - User set preference: ['Download_prefs', '{download.default_directory=//Users//katalon//Documents//Downld, download.directory_upgrade=true, download.prompt_for_download=false, plugins.always_open_pdf_externally=true, profile.default_content_settings.popups=0, profile.content_settings.exceptions.automatic_downloads.*.setting=1}']
+
+2022-04-04 16:56:12 - [MESSAGE][INFO] - User set preference: ['DevToolsActivePort_args', '[--no-sandbox, --disable-dev-shm-usage]']
+
+2022-04-04 16:56:12 - [MESSAGE][INFO] - User set preference: ['MOHIT_useAutomationExtension', 'false']
+
+2022-04-04 16:56:12 - [MESSAGE][INFO] - User set preference: ['MObILEView-mobileEmulation', '{deviceName=Nexus 5}']
+
+2022-04-04 16:56:12 - [MESSAGE][INFO] - User set preference: ['local connections are not allowed_args', '[--disable-notifications, --ignore-ssl-errors=yes, --ignore-certificate-errors]']
+
+2022-04-04 16:56:12 - [MESSAGE][INFO] - User set preference: ['Chromeprofile_args', '[user-data-dir=/Users/katalon/Library/Application Support/Google/Chrome, profile-directory=Default]']
+
+2022-04-04 16:56:12 - [MESSAGE][INFO] - User set preference: ['WindowSize_args', '[--window-size=1500,1000]']
+
+2022-04-04 16:56:12 - [MESSAGE][INFO] - User set preference: ['agrs', '[--start-maximized]']
+
+2022-04-04 16:56:12 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-04-04 16:56:18 - [MESSAGE][PASSED] - Browser is opened with url: 'https://katalon-demo-cura.herokuapp.com/'
+
+2022-04-04 16:56:18 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2022-04-04 16:56:19 - [MESSAGE][PASSED] - Current window maximized
+
+2022-04-04 16:56:19 - [TEST_STEP][PASSED] - strTitle = getWindowTitle(): Current window's title is: 'CURA Healthcare Service'
+
+2022-04-04 16:56:19 - [MESSAGE][PASSED] - Current window's title is: 'CURA Healthcare Service'
+
+2022-04-04 16:56:19 - [TEST_STEP][PASSED] - verifyMatch(strTitle, "CURA Healthcare Service", false): Actual text 'CURA Healthcare Service' and expected text 'CURA Healthcare Service' are matched 
+
+2022-04-04 16:56:19 - [MESSAGE][PASSED] - Actual text 'CURA Healthcare Service' and expected text 'CURA Healthcare Service' are matched 
+
+2022-04-04 16:56:19 - [TEST_STEP][PASSED] - Start listener action : autoUpdateJobStatus: [SAUCELABS] Current run configuration: Chrome
+
+2022-04-04 16:56:19 - [MESSAGE][INFO] - [SAUCELABS] Current run configuration: Chrome]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC Web Application/CURA Healthcare Service/Appointment/Click on Login Link" time="1.902" classname="Test Cases/TC Web Application/CURA Healthcare Service/Appointment/Click on Login Link" status="PASSED">
+         <system-out><![CDATA[2022-04-04 16:56:19 - [TEST_CASE][PASSED] - Test Cases/TC Web Application/CURA Healthcare Service/Appointment/Click on Login Link: Test Cases/TC Web Application/CURA Healthcare Service/Appointment/Click on Login Link
+
+2022-04-04 16:56:19 - [TEST_STEP][PASSED] - Start listener action : enableSauceLabs: [SAUCELABS] Saucelabs Plugin will not attempt to auto update job status and information !
+
+2022-04-04 16:56:19 - [MESSAGE][INFO] - [SAUCELABS] Current run configuration: Chrome
+
+2022-04-04 16:56:19 - [MESSAGE][INFO] - [SAUCELABS] Saucelabs Plugin will not attempt to auto update job status and information !
+
+2022-04-04 16:56:20 - [TEST_STEP][PASSED] - click(findTestObject("OR Web Application/CURA Healthcare Service/Home Page/menu-toggle")): Object: 'Object Repository/OR Web Application/CURA Healthcare Service/Home Page/menu-toggle' is clicked on
+
+2022-04-04 16:56:20 - [MESSAGE][PASSED] - Object: 'Object Repository/OR Web Application/CURA Healthcare Service/Home Page/menu-toggle' is clicked on
+
+2022-04-04 16:56:20 - [TEST_STEP][PASSED] - click(findTestObject("OR Web Application/CURA Healthcare Service/Home Page/Login link")): Object: 'Object Repository/OR Web Application/CURA Healthcare Service/Home Page/Login link' is clicked on
+
+2022-04-04 16:56:20 - [MESSAGE][PASSED] - Object: 'Object Repository/OR Web Application/CURA Healthcare Service/Home Page/Login link' is clicked on
+
+2022-04-04 16:56:20 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("OR Web Application/CURA Healthcare Service/Login Page/Please login to make appointment"), "Please login to make appointment."): Actual text and expected text of test object 'Object Repository/OR Web Application/CURA Healthcare Service/Login Page/Please login to make appointment' are matched.
+
+2022-04-04 16:56:21 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/OR Web Application/CURA Healthcare Service/Login Page/Please login to make appointment' are matched.
+
+2022-04-04 16:56:21 - [TEST_STEP][PASSED] - Start listener action : autoUpdateJobStatus: [SAUCELABS] Current run configuration: Chrome
+
+2022-04-04 16:56:21 - [MESSAGE][INFO] - [SAUCELABS] Current run configuration: Chrome]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC Web Application/CURA Healthcare Service/Data Driven/DDT Failure Expected Mark Test Pass" time="3.081" classname="Test Cases/TC Web Application/CURA Healthcare Service/Data Driven/DDT Failure Expected Mark Test Pass" status="PASSED">
+         <system-out><![CDATA[2022-04-04 16:56:21 - [TEST_CASE][PASSED] - Test Cases/TC Web Application/CURA Healthcare Service/Data Driven/DDT Failure Expected Mark Test Pass: Test Cases/TC Web Application/CURA Healthcare Service/Data Driven/DDT Failure Expected Mark Test Pass
+
+2022-04-04 16:56:21 - [TEST_STEP][PASSED] - Start listener action : enableSauceLabs: [SAUCELABS] Saucelabs Plugin will not attempt to auto update job status and information !
+
+2022-04-04 16:56:21 - [MESSAGE][INFO] - [SAUCELABS] Current run configuration: Chrome
+
+2022-04-04 16:56:21 - [MESSAGE][INFO] - [SAUCELABS] Saucelabs Plugin will not attempt to auto update job status and information !
+
+2022-04-04 16:56:21 - [TEST_STEP][PASSED] - setText(findTestObject("OR Web Application/CURA Healthcare Service/Login Page/input_Username"), username): Text 'TestUser1' is set on object 'Object Repository/OR Web Application/CURA Healthcare Service/Login Page/input_Username'
+
+2022-04-04 16:56:22 - [MESSAGE][PASSED] - Text 'TestUser1' is set on object 'Object Repository/OR Web Application/CURA Healthcare Service/Login Page/input_Username'
+
+2022-04-04 16:56:22 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2022-04-04 16:56:22 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|/Users/katalon/git/MohitTestOpsRepo/Reports/20220404_165548/TS Web Advanced/Failure is the expected marked test as passed/20220404_165548/1649071582246.png]]
+
+2022-04-04 16:56:22 - [TEST_STEP][PASSED] - setText(findTestObject("OR Web Application/CURA Healthcare Service/Login Page/input_Password"), password): Text 'TestPassword1' is set on object 'Object Repository/OR Web Application/CURA Healthcare Service/Login Page/input_Password'
+
+2022-04-04 16:56:22 - [MESSAGE][PASSED] - Text 'TestPassword1' is set on object 'Object Repository/OR Web Application/CURA Healthcare Service/Login Page/input_Password'
+
+2022-04-04 16:56:22 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2022-04-04 16:56:23 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|/Users/katalon/git/MohitTestOpsRepo/Reports/20220404_165548/TS Web Advanced/Failure is the expected marked test as passed/20220404_165548/1649071582703.png]]
+
+2022-04-04 16:56:23 - [TEST_STEP][PASSED] - click(findTestObject("OR Web Application/CURA Healthcare Service/Login Page/button_Login")): Object: 'Object Repository/OR Web Application/CURA Healthcare Service/Login Page/button_Login' is clicked on
+
+2022-04-04 16:56:23 - [MESSAGE][PASSED] - Object: 'Object Repository/OR Web Application/CURA Healthcare Service/Login Page/button_Login' is clicked on
+
+2022-04-04 16:56:23 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2022-04-04 16:56:24 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|/Users/katalon/git/MohitTestOpsRepo/Reports/20220404_165548/TS Web Advanced/Failure is the expected marked test as passed/20220404_165548/1649071583756.png]]
+
+2022-04-04 16:56:24 - [TEST_STEP][PASSED] - webKeywords.ApplicationFunction.failureExpectedMarkLoginTestPass(findTestObject("OR Web Application/CURA Healthcare Service/Login Page/Login failed Please ensure the username")): Login Failed
+
+2022-04-04 16:56:24 - [MESSAGE][PASSED] - Login Failed
+
+2022-04-04 16:56:24 - [TEST_STEP][PASSED] - Start listener action : autoUpdateJobStatus: [SAUCELABS] Current run configuration: Chrome
+
+2022-04-04 16:56:24 - [MESSAGE][INFO] - [SAUCELABS] Current run configuration: Chrome]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC Web Application/CURA Healthcare Service/Data Driven/DDT Failure Expected Mark Test Pass" time="2.77" classname="Test Cases/TC Web Application/CURA Healthcare Service/Data Driven/DDT Failure Expected Mark Test Pass" status="PASSED">
+         <system-out><![CDATA[2022-04-04 16:56:24 - [TEST_CASE][PASSED] - Test Cases/TC Web Application/CURA Healthcare Service/Data Driven/DDT Failure Expected Mark Test Pass: Test Cases/TC Web Application/CURA Healthcare Service/Data Driven/DDT Failure Expected Mark Test Pass
+
+2022-04-04 16:56:24 - [TEST_STEP][PASSED] - Start listener action : enableSauceLabs: [SAUCELABS] Saucelabs Plugin will not attempt to auto update job status and information !
+
+2022-04-04 16:56:24 - [MESSAGE][INFO] - [SAUCELABS] Current run configuration: Chrome
+
+2022-04-04 16:56:24 - [MESSAGE][INFO] - [SAUCELABS] Saucelabs Plugin will not attempt to auto update job status and information !
+
+2022-04-04 16:56:24 - [TEST_STEP][PASSED] - setText(findTestObject("OR Web Application/CURA Healthcare Service/Login Page/input_Username"), username): Text 'TestUser2' is set on object 'Object Repository/OR Web Application/CURA Healthcare Service/Login Page/input_Username'
+
+2022-04-04 16:56:25 - [MESSAGE][PASSED] - Text 'TestUser2' is set on object 'Object Repository/OR Web Application/CURA Healthcare Service/Login Page/input_Username'
+
+2022-04-04 16:56:25 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2022-04-04 16:56:25 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|/Users/katalon/git/MohitTestOpsRepo/Reports/20220404_165548/TS Web Advanced/Failure is the expected marked test as passed/20220404_165548/1649071585096.png]]
+
+2022-04-04 16:56:25 - [TEST_STEP][PASSED] - setText(findTestObject("OR Web Application/CURA Healthcare Service/Login Page/input_Password"), password): Text 'TestPassword2' is set on object 'Object Repository/OR Web Application/CURA Healthcare Service/Login Page/input_Password'
+
+2022-04-04 16:56:25 - [MESSAGE][PASSED] - Text 'TestPassword2' is set on object 'Object Repository/OR Web Application/CURA Healthcare Service/Login Page/input_Password'
+
+2022-04-04 16:56:25 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2022-04-04 16:56:25 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|/Users/katalon/git/MohitTestOpsRepo/Reports/20220404_165548/TS Web Advanced/Failure is the expected marked test as passed/20220404_165548/1649071585543.png]]
+
+2022-04-04 16:56:25 - [TEST_STEP][PASSED] - click(findTestObject("OR Web Application/CURA Healthcare Service/Login Page/button_Login")): Object: 'Object Repository/OR Web Application/CURA Healthcare Service/Login Page/button_Login' is clicked on
+
+2022-04-04 16:56:26 - [MESSAGE][PASSED] - Object: 'Object Repository/OR Web Application/CURA Healthcare Service/Login Page/button_Login' is clicked on
+
+2022-04-04 16:56:26 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2022-04-04 16:56:26 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|/Users/katalon/git/MohitTestOpsRepo/Reports/20220404_165548/TS Web Advanced/Failure is the expected marked test as passed/20220404_165548/1649071586576.png]]
+
+2022-04-04 16:56:26 - [TEST_STEP][PASSED] - webKeywords.ApplicationFunction.failureExpectedMarkLoginTestPass(findTestObject("OR Web Application/CURA Healthcare Service/Login Page/Login failed Please ensure the username")): Login Failed
+
+2022-04-04 16:56:27 - [MESSAGE][PASSED] - Login Failed
+
+2022-04-04 16:56:27 - [TEST_STEP][PASSED] - Start listener action : autoUpdateJobStatus: [SAUCELABS] Current run configuration: Chrome
+
+2022-04-04 16:56:27 - [MESSAGE][INFO] - [SAUCELABS] Current run configuration: Chrome]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC Web Application/CURA Healthcare Service/Data Driven/DDT Failure Expected Mark Test Pass" time="7.834" classname="Test Cases/TC Web Application/CURA Healthcare Service/Data Driven/DDT Failure Expected Mark Test Pass" status="PASSED">
+         <system-out><![CDATA[2022-04-04 16:56:27 - [TEST_CASE][PASSED] - Test Cases/TC Web Application/CURA Healthcare Service/Data Driven/DDT Failure Expected Mark Test Pass: Test Cases/TC Web Application/CURA Healthcare Service/Data Driven/DDT Failure Expected Mark Test Pass
+
+2022-04-04 16:56:27 - [TEST_STEP][PASSED] - Start listener action : enableSauceLabs: [SAUCELABS] Saucelabs Plugin will not attempt to auto update job status and information !
+
+2022-04-04 16:56:27 - [MESSAGE][INFO] - [SAUCELABS] Current run configuration: Chrome
+
+2022-04-04 16:56:27 - [MESSAGE][INFO] - [SAUCELABS] Saucelabs Plugin will not attempt to auto update job status and information !
+
+2022-04-04 16:56:27 - [TEST_STEP][PASSED] - setText(findTestObject("OR Web Application/CURA Healthcare Service/Login Page/input_Username"), username): Text 'John Doe' is set on object 'Object Repository/OR Web Application/CURA Healthcare Service/Login Page/input_Username'
+
+2022-04-04 16:56:27 - [MESSAGE][PASSED] - Text 'John Doe' is set on object 'Object Repository/OR Web Application/CURA Healthcare Service/Login Page/input_Username'
+
+2022-04-04 16:56:27 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2022-04-04 16:56:28 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|/Users/katalon/git/MohitTestOpsRepo/Reports/20220404_165548/TS Web Advanced/Failure is the expected marked test as passed/20220404_165548/1649071587876.png]]
+
+2022-04-04 16:56:28 - [TEST_STEP][PASSED] - setText(findTestObject("OR Web Application/CURA Healthcare Service/Login Page/input_Password"), password): Text 'ThisIsNotAPassword' is set on object 'Object Repository/OR Web Application/CURA Healthcare Service/Login Page/input_Password'
+
+2022-04-04 16:56:28 - [MESSAGE][PASSED] - Text 'ThisIsNotAPassword' is set on object 'Object Repository/OR Web Application/CURA Healthcare Service/Login Page/input_Password'
+
+2022-04-04 16:56:28 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2022-04-04 16:56:28 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|/Users/katalon/git/MohitTestOpsRepo/Reports/20220404_165548/TS Web Advanced/Failure is the expected marked test as passed/20220404_165548/1649071588362.png]]
+
+2022-04-04 16:56:28 - [TEST_STEP][PASSED] - click(findTestObject("OR Web Application/CURA Healthcare Service/Login Page/button_Login")): Object: 'Object Repository/OR Web Application/CURA Healthcare Service/Login Page/button_Login' is clicked on
+
+2022-04-04 16:56:29 - [MESSAGE][PASSED] - Object: 'Object Repository/OR Web Application/CURA Healthcare Service/Login Page/button_Login' is clicked on
+
+2022-04-04 16:56:29 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2022-04-04 16:56:29 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|/Users/katalon/git/MohitTestOpsRepo/Reports/20220404_165548/TS Web Advanced/Failure is the expected marked test as passed/20220404_165548/1649071589360.png]]
+
+2022-04-04 16:56:29 - [TEST_STEP][PASSED] - webKeywords.ApplicationFunction.failureExpectedMarkLoginTestPass(findTestObject("OR Web Application/CURA Healthcare Service/Login Page/Login failed Please ensure the username")): Login Successfully
+
+2022-04-04 16:56:31 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //*[(text() = 'Login failed! Please ensure the username and password are valid.' or . = 'Login failed! Please ensure the username and password are valid.')]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-04-04 16:56:31 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/OR Web Application/CURA Healthcare Service/Login Page/Login failed Please ensure the username'. Try using Self-healing.
+
+2022-04-04 16:56:32 - [MESSAGE][INFO] - Unable to find the element located by 'By.cssSelector: '. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-04-04 16:56:33 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: '. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-04-04 16:56:33 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:33 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:33 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:33 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:33 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:33 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:33 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:33 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:33 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:33 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:33 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:33 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:33 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:33 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:33 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:33 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:33 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:33 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:33 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:33 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:33 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:33 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:33 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:33 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:33 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:33 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:33 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:33 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:33 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*[text()='Login failed! Please ensure the username and password are valid.']'.
+
+2022-04-04 16:56:34 - [MESSAGE][PASSED] - Login Successfully
+
+2022-04-04 16:56:34 - [TEST_STEP][PASSED] - Start listener action : autoUpdateJobStatus: [SAUCELABS] Current run configuration: Chrome
+
+2022-04-04 16:56:34 - [MESSAGE][INFO] - [SAUCELABS] Current run configuration: Chrome]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC Web Application/CURA Healthcare Service/Appointment/Logout Application" time="0.283" classname="Test Cases/TC Web Application/CURA Healthcare Service/Appointment/Logout Application" status="PASSED">
+         <system-out><![CDATA[2022-04-04 16:56:35 - [TEST_CASE][PASSED] - Test Cases/TC Web Application/CURA Healthcare Service/Appointment/Logout Application: Test Cases/TC Web Application/CURA Healthcare Service/Appointment/Logout Application
+
+2022-04-04 16:56:35 - [TEST_STEP][PASSED] - Start listener action : enableSauceLabs: [SAUCELABS] Saucelabs Plugin will not attempt to auto update job status and information !
+
+2022-04-04 16:56:35 - [MESSAGE][INFO] - [SAUCELABS] Current run configuration: Chrome
+
+2022-04-04 16:56:35 - [MESSAGE][INFO] - [SAUCELABS] Saucelabs Plugin will not attempt to auto update job status and information !
+
+2022-04-04 16:56:35 - [TEST_STEP][NOT_RUN] - click(findTestObject("OR Web Application/CURA Healthcare Service/Home Page/menu-toggle")): NOT_RUN: click(findTestObject("OR Web Application/CURA Healthcare Service/Home Page/menu-toggle"))
+
+2022-04-04 16:56:35 - [MESSAGE][NOT_RUN] - NOT_RUN: click(findTestObject("OR Web Application/CURA Healthcare Service/Home Page/menu-toggle"))
+
+2022-04-04 16:56:35 - [TEST_STEP][NOT_RUN] - click(findTestObject("OR Web Application/CURA Healthcare Service/Home Page/Logout")): NOT_RUN: click(findTestObject("OR Web Application/CURA Healthcare Service/Home Page/Logout"))
+
+2022-04-04 16:56:35 - [MESSAGE][NOT_RUN] - NOT_RUN: click(findTestObject("OR Web Application/CURA Healthcare Service/Home Page/Logout"))
+
+2022-04-04 16:56:35 - [TEST_STEP][NOT_RUN] - closeBrowser(): NOT_RUN: closeBrowser()
+
+2022-04-04 16:56:35 - [MESSAGE][NOT_RUN] - NOT_RUN: closeBrowser()
+
+2022-04-04 16:56:35 - [TEST_STEP][PASSED] - Start listener action : autoUpdateJobStatus: [SAUCELABS] Current run configuration: Chrome
+
+2022-04-04 16:56:35 - [MESSAGE][INFO] - [SAUCELABS] Current run configuration: Chrome]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-04-04 16:56:11 - [TEST_SUITE][PASSED] - Failure is the expected marked test as passed: Test Cases/TC Web Application/CURA Healthcare Service/Appointment/Logout Application]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

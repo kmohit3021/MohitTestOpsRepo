@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Demo-frame</name>
+   <tag></tag>
+   <elementGuidId>03e793b9-3848-4995-9e03-8899c80195c0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='demo-frame']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@class = 'demo-frame']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#draggable</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>demo-frame</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-24 TC0001</name>
+   <tag></tag>
+   <comment>Step 1: [Step Description: Open broswe, Expected Result: ]
+Step 2: [Step Description: Click to license, Expected Result: ]</comment>
+   <testCaseGuid>f05756d8-717e-4628-813a-e0310341f4ea</testCaseGuid>
+</TestCaseEntity>

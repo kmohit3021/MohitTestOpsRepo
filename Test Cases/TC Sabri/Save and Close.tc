@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Save and Close</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>74b74ddb-81b6-4957-befd-51c9cbce5cac</testCaseGuid>
+   <variable>
+      <defaultValue>'9'</defaultValue>
+      <description></description>
+      <id>3205a89d-2825-447d-8dc9-1bc4ca7e0481</id>
+      <masked>false</masked>
+      <name>rating</name>
+   </variable>
+   <variable>
+      <defaultValue>'DT'</defaultValue>
+      <description></description>
+      <id>4850da73-1b2a-4ca0-9d1c-c3c1a3e7e45f</id>
+      <masked>false</masked>
+      <name>shortCode</name>
+   </variable>
+   <variable>
+      <defaultValue>'Default Description'</defaultValue>
+      <description></description>
+      <id>1a6d63b3-8ce0-4262-a974-e0e038f77ea8</id>
+      <masked>false</masked>
+      <name>description</name>
+   </variable>
+   <variable>
+      <defaultValue>'Default Note'</defaultValue>
+      <description></description>
+      <id>bd40c56e-fb83-46c8-8df7-2168854632f4</id>
+      <masked>false</masked>
+      <name>note</name>
+   </variable>
+</TestCaseEntity>

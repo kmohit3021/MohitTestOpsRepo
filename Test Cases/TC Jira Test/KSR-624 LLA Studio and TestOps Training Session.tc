@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Summary: [LLA] Studio and TestOps Training Session
+Description: Hi team,
+
+Our key account Liberty Latin America ($50K) would like to have a training session for their team members:
+
+{panel:bgColor=#deebff}
+*Time:* 9:00 - 10:30 am EST Tue, Sep 7 (6:30 PM IST)
+*Participants:* Testers *_(mostly non-technical)_*, Developer, DevOps 
+{panel}
+
+*1. Katalon Studio and TestOps Brief Introduction* [~accountid:5c98530463c4be37069f90f0] 
+
+*2. Basic automation flow for non-technical testers on UI and API testing* [~accountid:6093a042539c14006ad201b5] 
+
+Suggested AUT: Salesforce or any web app
+
+* Create test cases using Recorder&amp; Spy, Manual View, Script View
+* Create API test cases
+* Working with Test Suite &amp; Test Suite Collections
+* Data-driven testing
+* Command Line Execution 
+
+*3. Advanced features of KSE* [~accountid:6093a042539c14006ad201b5] 
+
+* Self-healing
+* Smart wait
+* Image-based testing
+* Test Artifact Sharing
+
+*4. CI/CD Integration with Jira Cloud and Bitbucket* [~accountid:6093a042539c14006ad201b5] 
+
+* Integration with Jira
+* Integration with Bitbucket
+
+*5. TestOps (Test Management, Reportings, Orchestration)* [~accountid:608726c483b8c6006bce787c] 
+
+* Reporting: View Katalon Studio test results on TestOps 
+* Test Management with Jira integration: View your requirements, test cases, test results and defects in one place
+* Orchestration Flow: Create an agent to schedule and execute Katalon tests from TestOps
+
+Please review the suggested agenda and share with me your thoughts. Thank you\!</description>
+   <name>KSR-624 LLA Studio and TestOps Training Session</name>
+   <tag>jira-integration</tag>
+   <integratedEntity>
+      <productName>JIRA</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;jiraIssue&quot;:{&quot;fields&quot;:{&quot;customFields&quot;:{&quot;customfield_10063&quot;:{&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/customFieldOption/10127&quot;,&quot;value&quot;:&quot;Tier 2&quot;,&quot;id&quot;:&quot;10127&quot;},&quot;customfield_10150&quot;:[],&quot;customfield_10018&quot;:[],&quot;customfield_10010&quot;:&quot;2021-08-23T17:00:19.976+0700&quot;,&quot;customfield_10007&quot;:{&quot;hasEpicLinkFieldDependency&quot;:false,&quot;showField&quot;:false,&quot;nonEditableReason&quot;:{&quot;reason&quot;:&quot;PLUGIN_LICENSE_ERROR&quot;,&quot;message&quot;:&quot;The Parent Link is only available to Jira Premium users.&quot;}},&quot;customfield_10009&quot;:&quot;0|i08j7j:&quot;,&quot;customfield_10080&quot;:&quot;LLA&quot;,&quot;customfield_10081&quot;:{&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/customFieldOption/10137&quot;,&quot;value&quot;:&quot;Enterprise&quot;,&quot;id&quot;:&quot;10137&quot;},&quot;customfield_10082&quot;:{&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/customFieldOption/10164&quot;,&quot;value&quot;:&quot;20-50&quot;,&quot;id&quot;:&quot;10164&quot;},&quot;customfield_10085&quot;:[{&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/customFieldOption/10144&quot;,&quot;value&quot;:&quot;Studio&quot;,&quot;id&quot;:&quot;10144&quot;},{&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/customFieldOption/10145&quot;,&quot;value&quot;:&quot;TestOps&quot;,&quot;id&quot;:&quot;10145&quot;}],&quot;customfield_10000&quot;:&quot;{}&quot;},&quot;status&quot;:{&quot;id&quot;:10128,&quot;description&quot;:&quot;&quot;,&quot;iconUrl&quot;:&quot;https://katalon.atlassian.net/&quot;,&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/status/10128&quot;,&quot;name&quot;:&quot;[SC] In Review&quot;},&quot;project&quot;:{&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/project/10058&quot;,&quot;key&quot;:&quot;KSR&quot;,&quot;id&quot;:10058,&quot;name&quot;:&quot;Katalon Support Request&quot;},&quot;components&quot;:[],&quot;summary&quot;:&quot;[LLA] Studio and TestOps Training Session&quot;,&quot;description&quot;:&quot;Hi team,\n\nOur key account Liberty Latin America ($50K) would like to have a training session for their team members:\n\n{panel:bgColor\u003d#deebff}\n*Time:* 9:00 - 10:30 am EST Tue, Sep 7 (6:30 PM IST)\n*Participants:* Testers *_(mostly non-technical)_*, Developer, DevOps \n{panel}\n\n*1. Katalon Studio and TestOps Brief Introduction* [~accountid:5c98530463c4be37069f90f0] \n\n*2. Basic automation flow for non-technical testers on UI and API testing* [~accountid:6093a042539c14006ad201b5] \n\nSuggested AUT: Salesforce or any web app\n\n* Create test cases using Recorder\u0026 Spy, Manual View, Script View\n* Create API test cases\n* Working with Test Suite \u0026 Test Suite Collections\n* Data-driven testing\n* Command Line Execution \n\n*3. Advanced features of KSE* [~accountid:6093a042539c14006ad201b5] \n\n* Self-healing\n* Smart wait\n* Image-based testing\n* Test Artifact Sharing\n\n*4. CI/CD Integration with Jira Cloud and Bitbucket* [~accountid:6093a042539c14006ad201b5] \n\n* Integration with Jira\n* Integration with Bitbucket\n\n*5. TestOps (Test Management, Reportings, Orchestration)* [~accountid:608726c483b8c6006bce787c] \n\n* Reporting: View Katalon Studio test results on TestOps \n* Test Management with Jira integration: View your requirements, test cases, test results and defects in one place\n* Orchestration Flow: Create an agent to schedule and execute Katalon tests from TestOps\n\nPlease review the suggested agenda and share with me your thoughts. Thank you\\!&quot;,&quot;reporter&quot;:{&quot;emailAddress&quot;:&quot;zoey@katalon.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;Zoey Nhi Tran&quot;,&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/user?accountId\u003d5c98530463c4be37069f90f0&quot;},&quot;assignee&quot;:{&quot;emailAddress&quot;:&quot;mohit.kumar@katalon.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;mohit.kumar&quot;,&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/user?accountId\u003d6093a042539c14006ad201b5&quot;},&quot;priority&quot;:{&quot;id&quot;:3,&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/priority/3&quot;,&quot;name&quot;:&quot;Medium&quot;},&quot;votes&quot;:{&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/issue/KSR-624/votes&quot;,&quot;votes&quot;:0,&quot;hasVoted&quot;:false},&quot;fixVersions&quot;:[],&quot;subtasks&quot;:[],&quot;labels&quot;:[]},&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/issue/60713&quot;,&quot;key&quot;:&quot;KSR-624&quot;,&quot;id&quot;:60713}}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment>2021-08-23T17:00:19.976+0700</comment>
+   <testCaseGuid>f5c02c3d-1d01-401b-941d-838cb51ea1d2</testCaseGuid>
+</TestCaseEntity>

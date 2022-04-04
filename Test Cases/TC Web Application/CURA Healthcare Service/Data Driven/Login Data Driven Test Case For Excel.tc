@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This my Data Driveb Test case</description>
+   <name>Login Data Driven Test Case For Excel</name>
+   <tag>DataDriven</tag>
+   <comment></comment>
+   <testCaseGuid>ef5d3f76-8511-4e46-bf3b-98f602365511</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>993fb669-37d2-40b8-8ab1-d97bfbdf0aee</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2d91604e-383a-406d-a922-e56854cf94c2</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

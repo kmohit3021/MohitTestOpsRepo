@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Summary: @evolve.com -  Jira integration for Katalon and for TestOps
+Description: Hi team,
+
+The prospect would jump on a quick 30 min call with me on jira integration for Katalon and for TestOps, would it be possible for you to join me ?
+Timeline: Tomorrow 18th August at 9:30 pm Vietnam time  / 7:30 Pm IST 
+
+
+
+----
+
+Hi team,
+
+The prospect has been trying to integrate with Jira following the instruction here.
+
+But they are not seeing any results in Jira for the test scripts that they have been executing in Katalon. 
+The integration is partially working because they able to pull test cases in from jira to katalon, but they do not see any results being passed back to jira.
+
+Would it be possible jump on the call with them to help with this as this is the only last piece of decision making for them?
+
+Or if you need any further info, please let me know.</description>
+   <name>KSR-608 evolve.com -  Jira integration for Katalon and for TestOps</name>
+   <tag>jira-integration</tag>
+   <integratedEntity>
+      <productName>JIRA</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;jiraIssue&quot;:{&quot;fields&quot;:{&quot;customFields&quot;:{&quot;customfield_10150&quot;:[],&quot;customfield_10018&quot;:[],&quot;customfield_10010&quot;:&quot;2021-08-19T11:07:51.367+0700&quot;,&quot;customfield_10007&quot;:{&quot;hasEpicLinkFieldDependency&quot;:false,&quot;showField&quot;:false,&quot;nonEditableReason&quot;:{&quot;reason&quot;:&quot;PLUGIN_LICENSE_ERROR&quot;,&quot;message&quot;:&quot;The Parent Link is only available to Jira Premium users.&quot;}},&quot;customfield_10009&quot;:&quot;0|i08idj:&quot;,&quot;customfield_10085&quot;:[{&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/customFieldOption/10144&quot;,&quot;value&quot;:&quot;Studio&quot;,&quot;id&quot;:&quot;10144&quot;}],&quot;customfield_10000&quot;:&quot;{}&quot;},&quot;status&quot;:{&quot;id&quot;:10128,&quot;description&quot;:&quot;&quot;,&quot;iconUrl&quot;:&quot;https://katalon.atlassian.net/&quot;,&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/status/10128&quot;,&quot;name&quot;:&quot;[SC] In Review&quot;},&quot;project&quot;:{&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/project/10058&quot;,&quot;key&quot;:&quot;KSR&quot;,&quot;id&quot;:10058,&quot;name&quot;:&quot;Katalon Support Request&quot;},&quot;components&quot;:[],&quot;summary&quot;:&quot;@evolve.com -  Jira integration for Katalon and for TestOps&quot;,&quot;description&quot;:&quot;Hi team,\n\nThe prospect would jump on a quick 30 min call with me on jira integration for Katalon and for TestOps, would it be possible for you to join me ?\nTimeline: Tomorrow 18th August at 9:30 pm Vietnam time  / 7:30 Pm IST \n\n\n\n----\n\nHi team,\n\nThe prospect has been trying to integrate with Jira following the instruction here.\n\nBut they are not seeing any results in Jira for the test scripts that they have been executing in Katalon. \nThe integration is partially working because they able to pull test cases in from jira to katalon, but they do not see any results being passed back to jira.\n\nWould it be possible jump on the call with them to help with this as this is the only last piece of decision making for them?\n\nOr if you need any further info, please let me know.&quot;,&quot;reporter&quot;:{&quot;emailAddress&quot;:&quot;ngoc.huynh@katalon.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;ngoc.huynh&quot;,&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/user?accountId\u003d5f9671b0048052006bd25322&quot;},&quot;assignee&quot;:{&quot;emailAddress&quot;:&quot;mohit.kumar@katalon.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;mohit.kumar&quot;,&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/user?accountId\u003d6093a042539c14006ad201b5&quot;},&quot;priority&quot;:{&quot;id&quot;:3,&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/priority/3&quot;,&quot;name&quot;:&quot;Medium&quot;},&quot;votes&quot;:{&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/issue/KSR-608/votes&quot;,&quot;votes&quot;:0,&quot;hasVoted&quot;:false},&quot;fixVersions&quot;:[],&quot;subtasks&quot;:[],&quot;labels&quot;:[]},&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/issue/60551&quot;,&quot;key&quot;:&quot;KSR-608&quot;,&quot;id&quot;:60551}}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment>2021-08-19T11:07:51.367+0700</comment>
+   <testCaseGuid>9149bbcf-1bd8-4b99-9bdd-bbac88f53ed6</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Summary: Michel&lt;> Demo request
+Description: Hi team,
+
+please help with a timing for a demo request from client for:
+
+
+Training that I need is how to setup a project in KS
+Integration between KS and testops and jira
+Integration of ios and android – live and emulator devices
+Setup test sets – test plans – test under each story UI and functions
+Input the checkpoints and keywords
+Api setup tests
+
+thanks</description>
+   <name>KSR-656 Michel Demo request</name>
+   <tag>jira-integration</tag>
+   <integratedEntity>
+      <productName>JIRA</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;jiraIssue&quot;:{&quot;fields&quot;:{&quot;customFields&quot;:{&quot;customfield_10150&quot;:[],&quot;customfield_10018&quot;:[],&quot;customfield_10010&quot;:&quot;2021-08-30T23:47:34.078+0700&quot;,&quot;customfield_10007&quot;:{&quot;hasEpicLinkFieldDependency&quot;:false,&quot;showField&quot;:false,&quot;nonEditableReason&quot;:{&quot;reason&quot;:&quot;PLUGIN_LICENSE_ERROR&quot;,&quot;message&quot;:&quot;The Parent Link is only available to Jira Premium users.&quot;}},&quot;customfield_10009&quot;:&quot;0|i08lh3:&quot;,&quot;customfield_10000&quot;:&quot;{}&quot;},&quot;status&quot;:{&quot;id&quot;:10129,&quot;description&quot;:&quot;&quot;,&quot;iconUrl&quot;:&quot;https://katalon.atlassian.net/&quot;,&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/status/10129&quot;,&quot;name&quot;:&quot;[CS] In Progress&quot;},&quot;project&quot;:{&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/project/10058&quot;,&quot;key&quot;:&quot;KSR&quot;,&quot;id&quot;:10058,&quot;name&quot;:&quot;Katalon Support Request&quot;},&quot;components&quot;:[],&quot;summary&quot;:&quot;Michel\u003c\u003e Demo request&quot;,&quot;description&quot;:&quot;Hi team,\r\n\r\nplease help with a timing for a demo request from client for:\r\n\r\n\r\nTraining that I need is how to setup a project in KS\r\nIntegration between KS and testops and jira\r\nIntegration of ios and android – live and emulator devices\r\nSetup test sets – test plans – test under each story UI and functions\r\nInput the checkpoints and keywords\r\nApi setup tests\r\n\r\nthanks&quot;,&quot;reporter&quot;:{&quot;emailAddress&quot;:&quot;pushkal.mehrish@katalon.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;pushkal.mehrish&quot;,&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/user?accountId\u003d60d00d72b215610069ed3408&quot;},&quot;assignee&quot;:{&quot;emailAddress&quot;:&quot;mohit.kumar@katalon.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;mohit.kumar&quot;,&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/user?accountId\u003d6093a042539c14006ad201b5&quot;},&quot;priority&quot;:{&quot;id&quot;:3,&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/priority/3&quot;,&quot;name&quot;:&quot;Medium&quot;},&quot;votes&quot;:{&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/issue/KSR-656/votes&quot;,&quot;votes&quot;:0,&quot;hasVoted&quot;:false},&quot;fixVersions&quot;:[],&quot;subtasks&quot;:[],&quot;labels&quot;:[]},&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/issue/61144&quot;,&quot;key&quot;:&quot;KSR-656&quot;,&quot;id&quot;:61144}}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment>2021-08-30T23:47:34.078+0700</comment>
+   <testCaseGuid>d4eeb5e5-ae3c-4575-90d9-cdad8667c031</testCaseGuid>
+</TestCaseEntity>

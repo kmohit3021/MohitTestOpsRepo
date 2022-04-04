@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Summary: Vinodh&lt;>Cognizant&lt;> Browserstack issue
+Description: Hi team,
+
+we have a client facing some issues with integrating with browser stack, please find the details below:
+
+Summary: Unable to connect to browserstack from Katalon Studio
+
+• Steps to reproduce
+
+1. Launch Katalon Studio and create a mobile project (Browserstack plugin should be installed in Katalon studio)
+2. In Katalon Studio, navigate to Project à Settings à Plugins à Browserstack Integration
+3. Fill the details for the following fields
+Image #1
+Image #2
+Platform should be Android
+• BrowserStack Username and AccessKey should be based on the browserstack account used
+
+4. Create a folder named ‘Files’ under project view and add the test app’s .apk file
+Image #3
+Under Katalon default profile, add two global variables appPathANDROID and browserstack_ID
+
+Image #4
+6. Create a new test case and add the following two lines of code
+
+import com.devstored.Browserstack
+Browserstack.startApplication(GlobalVariable.appPathANDROID, GlobalVariable.browserstack_ID, false)
+
+7. Add this test case to a test suite, save and then click Run à Custom capabilities à Browser stack file name (as saved in step #3)
+
+• Expected Results: Test case should get passed (Script should establish connection to browserstack successfully)
+• Actual Results: Error mentioned in the attached report is displayed
+
+1. .yml file if there is any
+2. Full error log in text (HTML repot &amp; config à metdata à .log file attached)
+
+Notes
+
+• Operating System (For example: Windows 10 or OSX) Windows 10
+• Katalon Studio Version 8.0.1
+_Windows logs folder: &lt;Katalon Studio folder>\\config.metadata.log_
+•  _macOS logs folder: file:///Applications/Katalon%20Studio.app/Contents/MacOS/config/.metadata/.plugins/org.eclipse.ui.workbench/log_
+
+• Screenshots / Videos HTML report attached
+
+
+ !image004.png|thumbnail!  !image005.png|thumbnail!  [^20210825_085552.html]  !image001.png|thumbnail!  !image002.png|thumbnail! 
+
+</description>
+   <name>KSR-645 VinodhCognizant Browserstack issue</name>
+   <tag>jira-integration</tag>
+   <integratedEntity>
+      <productName>JIRA</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;jiraIssue&quot;:{&quot;fields&quot;:{&quot;customFields&quot;:{&quot;customfield_10150&quot;:[],&quot;customfield_10018&quot;:[],&quot;customfield_10010&quot;:&quot;2021-08-26T18:02:34.062+0700&quot;,&quot;customfield_10007&quot;:{&quot;hasEpicLinkFieldDependency&quot;:false,&quot;showField&quot;:false,&quot;nonEditableReason&quot;:{&quot;reason&quot;:&quot;PLUGIN_LICENSE_ERROR&quot;,&quot;message&quot;:&quot;The Parent Link is only available to Jira Premium users.&quot;}},&quot;customfield_10009&quot;:&quot;0|i08kbz:&quot;,&quot;customfield_10000&quot;:&quot;{}&quot;},&quot;status&quot;:{&quot;id&quot;:10129,&quot;description&quot;:&quot;&quot;,&quot;iconUrl&quot;:&quot;https://katalon.atlassian.net/&quot;,&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/status/10129&quot;,&quot;name&quot;:&quot;[CS] In Progress&quot;},&quot;project&quot;:{&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/project/10058&quot;,&quot;key&quot;:&quot;KSR&quot;,&quot;id&quot;:10058,&quot;name&quot;:&quot;Katalon Support Request&quot;},&quot;components&quot;:[],&quot;summary&quot;:&quot;Vinodh\u003c\u003eCognizant\u003c\u003e Browserstack issue&quot;,&quot;description&quot;:&quot;Hi team,\r\n\r\nwe have a client facing some issues with integrating with browser stack, please find the details below:\r\n\r\nSummary: Unable to connect to browserstack from Katalon Studio\r\n\r\n• Steps to reproduce\r\n\r\n1. Launch Katalon Studio and create a mobile project (Browserstack plugin should be installed in Katalon studio)\r\n2. In Katalon Studio, navigate to Project à Settings à Plugins à Browserstack Integration\r\n3. Fill the details for the following fields\r\nImage #1\r\nImage #2\r\nPlatform should be Android\r\n• BrowserStack Username and AccessKey should be based on the browserstack account used\r\n\r\n4. Create a folder named ‘Files’ under project view and add the test app’s .apk file\r\nImage #3\r\nUnder Katalon default profile, add two global variables appPathANDROID and browserstack_ID\r\n\r\nImage #4\r\n6. Create a new test case and add the following two lines of code\r\n\r\nimport com.devstored.Browserstack\r\nBrowserstack.startApplication(GlobalVariable.appPathANDROID, GlobalVariable.browserstack_ID, false)\r\n\r\n7. Add this test case to a test suite, save and then click Run à Custom capabilities à Browser stack file name (as saved in step #3)\r\n\r\n• Expected Results: Test case should get passed (Script should establish connection to browserstack successfully)\r\n• Actual Results: Error mentioned in the attached report is displayed\r\n\r\n1. .yml file if there is any\r\n2. Full error log in text (HTML repot \u0026 config à metdata à .log file attached)\r\n\r\nNotes\r\n\r\n• Operating System (For example: Windows 10 or OSX) Windows 10\r\n• Katalon Studio Version 8.0.1\r\n_Windows logs folder: \u003cKatalon Studio folder\u003e\\\\config.metadata.log_\r\n•  _macOS logs folder: file:///Applications/Katalon%20Studio.app/Contents/MacOS/config/.metadata/.plugins/org.eclipse.ui.workbench/log_\r\n\r\n• Screenshots / Videos HTML report attached\r\n\r\n\r\n !image004.png|thumbnail!  !image005.png|thumbnail!  [^20210825_085552.html]  !image001.png|thumbnail!  !image002.png|thumbnail! \r\n\r\n&quot;,&quot;reporter&quot;:{&quot;emailAddress&quot;:&quot;pushkal.mehrish@katalon.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;pushkal.mehrish&quot;,&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/user?accountId\u003d60d00d72b215610069ed3408&quot;},&quot;assignee&quot;:{&quot;emailAddress&quot;:&quot;mohit.kumar@katalon.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;mohit.kumar&quot;,&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/user?accountId\u003d6093a042539c14006ad201b5&quot;},&quot;priority&quot;:{&quot;id&quot;:3,&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/priority/3&quot;,&quot;name&quot;:&quot;Medium&quot;},&quot;votes&quot;:{&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/issue/KSR-645/votes&quot;,&quot;votes&quot;:0,&quot;hasVoted&quot;:false},&quot;fixVersions&quot;:[],&quot;subtasks&quot;:[],&quot;labels&quot;:[]},&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/issue/60922&quot;,&quot;key&quot;:&quot;KSR-645&quot;,&quot;id&quot;:60922}}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment>2021-08-26T18:02:34.062+0700</comment>
+   <testCaseGuid>a15c9725-7394-4a02-b7b3-34b9c69e7bcd</testCaseGuid>
+</TestCaseEntity>

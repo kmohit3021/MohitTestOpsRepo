@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Summary: Site.Sa questions
+Description: Hi team,
+
+We had some follow up question from Site.Sa from the last demo. 
+
+* Does one variable can be included in many objects? what is the usage of the variables here?
+Please share example .
+
+
+* Can I generate complete step definitions from the feature file?
+( As in IntelliJ IDEA users can do that by right click on the on a step, kindly check URL for reference https://www.jetbrains.com/help/idea/creating-step-definition.html#navigate-steps-definitions)
+ 
+* How Can I use the same scripts for two or more step definitions? (AmbiguousStepDefinitionsException)
+ 
+
+* Link feature file with step definition in specific previous class defined
+ 
+
+*  How to deal with the features in the following example :
+Script A : create user (Nouf) in the system .
+Script B :edit (Nouf) personal info .
+
+And scripts run successfully whether (Nouf ) sorted A-Z or Z-A in the page ( in both BDD testing with step definition + webUI testing )
+test the compatibility of the website (not applications) with the mobiles to see is it responsive or not .
+ </description>
+   <name>KSR-610 Site.Sa questions</name>
+   <tag>jira-integration</tag>
+   <integratedEntity>
+      <productName>JIRA</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;jiraIssue&quot;:{&quot;fields&quot;:{&quot;customFields&quot;:{&quot;customfield_10063&quot;:{&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/customFieldOption/10128&quot;,&quot;value&quot;:&quot;Tier 3&quot;,&quot;id&quot;:&quot;10128&quot;},&quot;customfield_10150&quot;:[],&quot;customfield_10018&quot;:[],&quot;customfield_10010&quot;:&quot;2021-08-19T11:04:01.294+0700&quot;,&quot;customfield_10007&quot;:{&quot;hasEpicLinkFieldDependency&quot;:false,&quot;showField&quot;:false,&quot;nonEditableReason&quot;:{&quot;reason&quot;:&quot;PLUGIN_LICENSE_ERROR&quot;,&quot;message&quot;:&quot;The Parent Link is only available to Jira Premium users.&quot;}},&quot;customfield_10009&quot;:&quot;0|i08irz:&quot;,&quot;customfield_10082&quot;:{&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/customFieldOption/10163&quot;,&quot;value&quot;:&quot;10-20&quot;,&quot;id&quot;:&quot;10163&quot;},&quot;customfield_10085&quot;:[{&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/customFieldOption/10144&quot;,&quot;value&quot;:&quot;Studio&quot;,&quot;id&quot;:&quot;10144&quot;}],&quot;customfield_10000&quot;:&quot;{}&quot;},&quot;status&quot;:{&quot;id&quot;:10129,&quot;description&quot;:&quot;&quot;,&quot;iconUrl&quot;:&quot;https://katalon.atlassian.net/&quot;,&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/status/10129&quot;,&quot;name&quot;:&quot;[CS] In Progress&quot;},&quot;project&quot;:{&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/project/10058&quot;,&quot;key&quot;:&quot;KSR&quot;,&quot;id&quot;:10058,&quot;name&quot;:&quot;Katalon Support Request&quot;},&quot;components&quot;:[],&quot;summary&quot;:&quot;Site.Sa questions&quot;,&quot;description&quot;:&quot;Hi team,\r\n\r\nWe had some follow up question from Site.Sa from the last demo. \r\n\r\n* Does one variable can be included in many objects? what is the usage of the variables here?\r\nPlease share example .\r\n\r\n\r\n* Can I generate complete step definitions from the feature file?\r\n( As in IntelliJ IDEA users can do that by right click on the on a step, kindly check URL for reference https://www.jetbrains.com/help/idea/creating-step-definition.html#navigate-steps-definitions)\r\n \r\n* How Can I use the same scripts for two or more step definitions? (AmbiguousStepDefinitionsException)\r\n \r\n\r\n* Link feature file with step definition in specific previous class defined\r\n \r\n\r\n*  How to deal with the features in the following example :\r\nScript A : create user (Nouf) in the system .\r\nScript B :edit (Nouf) personal info .\r\n\r\nAnd scripts run successfully whether (Nouf ) sorted A-Z or Z-A in the page ( in both BDD testing with step definition + webUI testing )\r\ntest the compatibility of the website (not applications) with the mobiles to see is it responsive or not .\r\n &quot;,&quot;reporter&quot;:{&quot;emailAddress&quot;:&quot;tu.tran@katalon.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;tu.tran&quot;,&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/user?accountId\u003d5f83dbfeecee350069e05de6&quot;},&quot;assignee&quot;:{&quot;emailAddress&quot;:&quot;mohit.kumar@katalon.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;mohit.kumar&quot;,&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/user?accountId\u003d6093a042539c14006ad201b5&quot;},&quot;priority&quot;:{&quot;id&quot;:3,&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/priority/3&quot;,&quot;name&quot;:&quot;Medium&quot;},&quot;votes&quot;:{&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/issue/KSR-610/votes&quot;,&quot;votes&quot;:0,&quot;hasVoted&quot;:false},&quot;fixVersions&quot;:[],&quot;subtasks&quot;:[],&quot;labels&quot;:[]},&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/issue/60640&quot;,&quot;key&quot;:&quot;KSR-610&quot;,&quot;id&quot;:60640}}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment>2021-08-19T11:04:01.294+0700</comment>
+   <testCaseGuid>92379f97-7d4e-484c-9cc0-2c2c9d0a26d4</testCaseGuid>
+</TestCaseEntity>

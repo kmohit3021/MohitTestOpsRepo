@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Summary: [Katalon Studio] [medimpactdirect.com]
+Description: Hi Team, the client has the question below:
+ !image001.jpg|thumbnail! 
+
+One more clarification, we are trying to integrate katalon on the release pipeline in azure devops. We are doing some web app deployments for “onpremise”
+
+ 
+
+Below is the release pipeline in which we are trying to integrate katalon.
+
+ 
+
+In this we have 7 tasks,
+
+1. Assign Site name based on build params
+
+2. Stop service website &amp; AppPool
+
+3. Backup deployed service directory
+
+4. Deploy NPM Binaries
+
+5. Update GA ID
+
+6. Start service website &amp; AppPool
+
+7. Publish to Dashboard
+
+  !image001.jpg|thumbnail! 
+
+Can you check with your technical team that Out of 7 under which task we need to add “Katalon task” in the pipeline..?</description>
+   <name>KSR-617 Katalon Studio medimpactdirect.com</name>
+   <tag>jira-integration</tag>
+   <integratedEntity>
+      <productName>JIRA</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;jiraIssue&quot;:{&quot;fields&quot;:{&quot;customFields&quot;:{&quot;customfield_10063&quot;:{&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/customFieldOption/10127&quot;,&quot;value&quot;:&quot;Tier 2&quot;,&quot;id&quot;:&quot;10127&quot;},&quot;customfield_10150&quot;:[],&quot;customfield_10018&quot;:[],&quot;customfield_10010&quot;:&quot;2021-08-19T17:54:24.871+0700&quot;,&quot;customfield_10007&quot;:{&quot;hasEpicLinkFieldDependency&quot;:false,&quot;showField&quot;:false,&quot;nonEditableReason&quot;:{&quot;reason&quot;:&quot;PLUGIN_LICENSE_ERROR&quot;,&quot;message&quot;:&quot;The Parent Link is only available to Jira Premium users.&quot;}},&quot;customfield_10009&quot;:&quot;0|i08izr:&quot;,&quot;customfield_10081&quot;:{&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/customFieldOption/10136&quot;,&quot;value&quot;:&quot;Developer&quot;,&quot;id&quot;:&quot;10136&quot;},&quot;customfield_10082&quot;:{&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/customFieldOption/10139&quot;,&quot;value&quot;:&quot;5-10&quot;,&quot;id&quot;:&quot;10139&quot;},&quot;customfield_10085&quot;:[{&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/customFieldOption/10144&quot;,&quot;value&quot;:&quot;Studio&quot;,&quot;id&quot;:&quot;10144&quot;}],&quot;customfield_10000&quot;:&quot;{}&quot;},&quot;status&quot;:{&quot;id&quot;:10129,&quot;description&quot;:&quot;&quot;,&quot;iconUrl&quot;:&quot;https://katalon.atlassian.net/&quot;,&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/status/10129&quot;,&quot;name&quot;:&quot;[CS] In Progress&quot;},&quot;project&quot;:{&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/project/10058&quot;,&quot;key&quot;:&quot;KSR&quot;,&quot;id&quot;:10058,&quot;name&quot;:&quot;Katalon Support Request&quot;},&quot;components&quot;:[],&quot;summary&quot;:&quot;[Katalon Studio] [medimpactdirect.com]&quot;,&quot;description&quot;:&quot;Hi Team, the client has the question below:\r\n !image001.jpg|thumbnail! \r\n\r\nOne more clarification, we are trying to integrate katalon on the release pipeline in azure devops. We are doing some web app deployments for “onpremise”\r\n\r\n \r\n\r\nBelow is the release pipeline in which we are trying to integrate katalon.\r\n\r\n \r\n\r\nIn this we have 7 tasks,\r\n\r\n1. Assign Site name based on build params\r\n\r\n2. Stop service website \u0026 AppPool\r\n\r\n3. Backup deployed service directory\r\n\r\n4. Deploy NPM Binaries\r\n\r\n5. Update GA ID\r\n\r\n6. Start service website \u0026 AppPool\r\n\r\n7. Publish to Dashboard\r\n\r\n  !image001.jpg|thumbnail! \r\n\r\nCan you check with your technical team that Out of 7 under which task we need to add “Katalon task” in the pipeline..?&quot;,&quot;reporter&quot;:{&quot;emailAddress&quot;:&quot;may@katalon.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;May Tran&quot;,&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/user?accountId\u003d5e466d17c8ec310c955b0ecd&quot;},&quot;assignee&quot;:{&quot;emailAddress&quot;:&quot;mohit.kumar@katalon.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;mohit.kumar&quot;,&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/user?accountId\u003d6093a042539c14006ad201b5&quot;},&quot;priority&quot;:{&quot;id&quot;:2,&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/priority/2&quot;,&quot;name&quot;:&quot;High&quot;},&quot;votes&quot;:{&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/issue/KSR-617/votes&quot;,&quot;votes&quot;:0,&quot;hasVoted&quot;:false},&quot;fixVersions&quot;:[],&quot;subtasks&quot;:[],&quot;labels&quot;:[]},&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/issue/60676&quot;,&quot;key&quot;:&quot;KSR-617&quot;,&quot;id&quot;:60676}}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment>2021-08-19T17:54:24.871+0700</comment>
+   <testCaseGuid>add5ec26-3fec-45b0-bca3-d9f643bba33e</testCaseGuid>
+</TestCaseEntity>

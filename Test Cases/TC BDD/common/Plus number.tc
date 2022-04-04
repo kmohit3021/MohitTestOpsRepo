@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Plus number</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>32edfaa6-a051-40fe-9746-e0f05b13591b</testCaseGuid>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>7696878d-6aa3-464b-9895-c84b1d40c44c</id>
+      <masked>false</masked>
+      <name>firstOperand</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>5357686e-3306-4139-a623-611371d9bb0d</id>
+      <masked>false</masked>
+      <name>secondOperand</name>
+   </variable>
+</TestCaseEntity>

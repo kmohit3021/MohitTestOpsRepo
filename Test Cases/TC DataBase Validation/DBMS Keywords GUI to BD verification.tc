@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DBMS Keywords GUI to BD verification</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>49712d4d-474c-4eaa-b966-862aba10ea8e</testCaseGuid>
+</TestCaseEntity>

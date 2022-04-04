@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "44A97065CC15205AAFB42BF45FE16C84",
+  "keywordClasses": [
+    {
+      "name": "operations.Plus",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

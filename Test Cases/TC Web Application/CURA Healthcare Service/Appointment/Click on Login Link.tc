@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case is for opening the application on the browser</description>
+   <name>Click on Login Link</name>
+   <tag>Browser</tag>
+   <comment></comment>
+   <testCaseGuid>50c3a84a-cb5b-400a-b247-2d3c33ae7ae4</testCaseGuid>
+</TestCaseEntity>

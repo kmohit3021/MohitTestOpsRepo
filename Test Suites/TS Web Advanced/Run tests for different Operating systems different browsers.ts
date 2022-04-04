@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Run tests for different Operating systems different browsers</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>4d59e4a9-8dc4-4672-a573-bc6549301aec</testSuiteGuid>
+   <testCaseLink>
+      <guid>fa36ce46-603b-4450-a7de-9167eacf450f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC Web Application/CURA Healthcare Service/Appointment/Open Browser</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>85fb1e06-decf-429f-832c-3a98a16a6925</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC Web Application/CURA Healthcare Service/Appointment/Click on Login Link</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>4c8109eb-a895-46d6-9b87-c8db8e66e7ca</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC Web Application/CURA Healthcare Service/Appointment/Login Application</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>22c3aef3-816d-4b8b-9361-7e2fe7868a4b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>36200139-eb2c-4b98-9c40-3a2cf9e07dcf</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>74e718d6-95ad-4c24-8230-afd336f47b26</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>da4e9192-491b-48d9-be09-dc1d22d7d2b5</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC Web Application/CURA Healthcare Service/Appointment/Make Appointment</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>3a5237a8-de02-4bcc-97d0-166556d4175d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>e6a6dd4c-9add-4c82-a20c-5650ea48e1d8</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>4fafdd75-f2c4-4ca5-b396-eb529b6ae7c4</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>9bb95e93-c200-49b6-8f0f-a2869e73a5f1</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC Web Application/CURA Healthcare Service/Appointment/Logout Application</testCaseId>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Summary: Regions Bank / Katalon - Wednesday 9/8 @ 11am EST
+Description: Hi All,
+
+We are in need of support showcase the following items for Regions Bank:
+
+-The various components of Katalon (Studio Enterprise, Run Time Engine,  Test Ops Business/Enterprise) – how they work together
+-Showcase parallel execution capabilities with Katalon Run Time, and then with third party solution like SauceLabs
+-Demonstrate how Katalon execution would be triggered from a REST API call.
+-Showcase a test scenario that flows between applications with multiple underlying technologies (Web, Desktop, Mainframe)
+-Demonstrate how the tool could switch between low-code and expert mode</description>
+   <name>KSR-667 Regions Bank  Katalon - Wednesday 98  11am EST</name>
+   <tag>jira-integration</tag>
+   <integratedEntity>
+      <productName>JIRA</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;jiraIssue&quot;:{&quot;fields&quot;:{&quot;customFields&quot;:{&quot;customfield_10150&quot;:[],&quot;customfield_10018&quot;:[],&quot;customfield_10007&quot;:{&quot;hasEpicLinkFieldDependency&quot;:false,&quot;showField&quot;:false,&quot;nonEditableReason&quot;:{&quot;reason&quot;:&quot;PLUGIN_LICENSE_ERROR&quot;,&quot;message&quot;:&quot;The Parent Link is only available to Jira Premium users.&quot;}},&quot;customfield_10009&quot;:&quot;0|i08lt3:&quot;,&quot;customfield_10080&quot;:&quot;Regions Bank&quot;,&quot;customfield_10081&quot;:{&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/customFieldOption/10137&quot;,&quot;value&quot;:&quot;Enterprise&quot;,&quot;id&quot;:&quot;10137&quot;},&quot;customfield_10082&quot;:{&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/customFieldOption/10163&quot;,&quot;value&quot;:&quot;10-20&quot;,&quot;id&quot;:&quot;10163&quot;},&quot;customfield_10085&quot;:[{&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/customFieldOption/10144&quot;,&quot;value&quot;:&quot;Studio&quot;,&quot;id&quot;:&quot;10144&quot;},{&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/customFieldOption/10145&quot;,&quot;value&quot;:&quot;TestOps&quot;,&quot;id&quot;:&quot;10145&quot;}],&quot;customfield_10000&quot;:&quot;{}&quot;},&quot;status&quot;:{&quot;id&quot;:10128,&quot;description&quot;:&quot;&quot;,&quot;iconUrl&quot;:&quot;https://katalon.atlassian.net/&quot;,&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/status/10128&quot;,&quot;name&quot;:&quot;[SC] In Review&quot;},&quot;project&quot;:{&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/project/10058&quot;,&quot;key&quot;:&quot;KSR&quot;,&quot;id&quot;:10058,&quot;name&quot;:&quot;Katalon Support Request&quot;},&quot;components&quot;:[],&quot;summary&quot;:&quot;Regions Bank / Katalon - Wednesday 9/8 @ 11am EST&quot;,&quot;description&quot;:&quot;Hi All,\r\n\r\nWe are in need of support showcase the following items for Regions Bank:\r\n\r\n-The various components of Katalon (Studio Enterprise, Run Time Engine,  Test Ops Business/Enterprise) – how they work together\r\n-Showcase parallel execution capabilities with Katalon Run Time, and then with third party solution like SauceLabs\r\n-Demonstrate how Katalon execution would be triggered from a REST API call.\r\n-Showcase a test scenario that flows between applications with multiple underlying technologies (Web, Desktop, Mainframe)\r\n-Demonstrate how the tool could switch between low-code and expert mode&quot;,&quot;reporter&quot;:{&quot;emailAddress&quot;:&quot;chris@katalon.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;chris&quot;,&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/user?accountId\u003d5f5f2430b9fcc10077178224&quot;},&quot;assignee&quot;:{&quot;emailAddress&quot;:&quot;mohit.kumar@katalon.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;mohit.kumar&quot;,&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/user?accountId\u003d6093a042539c14006ad201b5&quot;},&quot;priority&quot;:{&quot;id&quot;:2,&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/priority/2&quot;,&quot;name&quot;:&quot;High&quot;},&quot;votes&quot;:{&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/issue/KSR-667/votes&quot;,&quot;votes&quot;:0,&quot;hasVoted&quot;:false},&quot;fixVersions&quot;:[],&quot;subtasks&quot;:[],&quot;labels&quot;:[]},&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/issue/61205&quot;,&quot;key&quot;:&quot;KSR-667&quot;,&quot;id&quot;:61205}}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <testCaseGuid>1dcf574b-3f08-4c37-9aa8-308bca83a5cc</testCaseGuid>
+</TestCaseEntity>

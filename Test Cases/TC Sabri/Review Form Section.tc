@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Review Form Section</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>11e48466-82e4-401e-8b7b-b3bc0a536849</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>51515908-c9d3-4892-9f47-3f22c9cda246</id>
+      <masked>false</masked>
+      <name>Question</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0c0d5458-9e19-4b62-a81c-8b9dac7e89e9</id>
+      <masked>false</masked>
+      <name>Type</name>
+   </variable>
+   <variable>
+      <defaultValue>[]</defaultValue>
+      <description></description>
+      <id>37bf351e-e68b-4a03-b3b0-30288668b7a7</id>
+      <masked>false</masked>
+      <name>Options</name>
+   </variable>
+</TestCaseEntity>

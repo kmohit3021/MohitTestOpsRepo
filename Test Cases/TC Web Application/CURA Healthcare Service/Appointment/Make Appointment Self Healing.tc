@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case is for making appointment</description>
+   <name>Make Appointment Self Healing</name>
+   <tag>Appointment</tag>
+   <comment></comment>
+   <testCaseGuid>30e8bce6-39e2-4bcf-881d-810d27542c22</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>63efaba0-70d1-4349-be95-4c5e7a769956</id>
+      <masked>false</masked>
+      <name>Facility</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8bf408f4-ea59-4474-a35b-9449f6c057e1</id>
+      <masked>false</masked>
+      <name>VisitDate</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c1e490c6-1ff9-4df7-b9b2-62e4936bd3aa</id>
+      <masked>false</masked>
+      <name>Comment</name>
+   </variable>
+</TestCaseEntity>

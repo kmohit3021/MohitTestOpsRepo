@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Switch to rating Scale</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>679d19d4-6318-47bc-a5d1-672a11a21a6d</testCaseGuid>
+   <variable>
+      <defaultValue>'9'</defaultValue>
+      <description></description>
+      <id>d2e5cdaf-9c43-40ee-8077-0ccdf9b585b2</id>
+      <masked>false</masked>
+      <name>rating</name>
+   </variable>
+   <variable>
+      <defaultValue>'DT'</defaultValue>
+      <description></description>
+      <id>ad281c67-c85e-4ada-995d-80bfded8debc</id>
+      <masked>false</masked>
+      <name>shortCode</name>
+   </variable>
+   <variable>
+      <defaultValue>'Default Description'</defaultValue>
+      <description></description>
+      <id>ff5fffe8-c534-4d2f-8094-476c5e8716f1</id>
+      <masked>false</masked>
+      <name>description</name>
+   </variable>
+   <variable>
+      <defaultValue>'Default Note'</defaultValue>
+      <description></description>
+      <id>3fc9930b-a5de-49f9-b426-ccaf3f4a760c</id>
+      <masked>false</masked>
+      <name>note</name>
+   </variable>
+</TestCaseEntity>

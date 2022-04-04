@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>WebTables W3school</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ae93e68a-210a-4fc4-8e2b-5bacad744063</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>426063a2-ad0d-42d5-85e3-be9ea96e9a52</id>
+      <masked>false</masked>
+      <name>valueInWebTable</name>
+   </variable>
+</TestCaseEntity>

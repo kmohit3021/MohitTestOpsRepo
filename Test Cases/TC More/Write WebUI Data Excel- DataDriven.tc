@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Write WebUI Data Excel- DataDriven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da2dc502-7603-4c3e-8fa6-963bfa1ce63f</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9c4900ad-9fee-4b5e-9007-90382fe03ffa</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2649bfce-4c95-4a80-9d56-242d24843518</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

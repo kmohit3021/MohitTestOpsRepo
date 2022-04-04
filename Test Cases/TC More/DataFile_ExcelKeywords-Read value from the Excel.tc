@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DataFile_ExcelKeywords-Read value from the Excel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5b03bf4b-7f2e-4fa9-925f-29af7e0369f4</testCaseGuid>
+   <variable>
+      <defaultValue>'mohit, mo, hit'</defaultValue>
+      <description></description>
+      <id>086d6153-8655-46f9-8a60-5304925da561</id>
+      <masked>false</masked>
+      <name>Options</name>
+   </variable>
+</TestCaseEntity>

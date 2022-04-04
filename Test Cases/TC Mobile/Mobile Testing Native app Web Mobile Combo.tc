@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Mobile Testing Native app Web Mobile Combo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>71a04ba8-e9bb-4a50-ab7a-336495914c92</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.Android_App</defaultValue>
+      <description></description>
+      <id>6c85240e-2c47-4767-8fc2-f4f6404549b0</id>
+      <masked>false</masked>
+      <name>app</name>
+   </variable>
+</TestCaseEntity>

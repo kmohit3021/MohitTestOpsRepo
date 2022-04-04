@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case is for opening the application on the browser</description>
+   <name>Open Browser</name>
+   <tag>Browser</tag>
+   <comment></comment>
+   <testCaseGuid>cb37c83d-b970-4e66-bf48-d74bb50bd059</testCaseGuid>
+</TestCaseEntity>

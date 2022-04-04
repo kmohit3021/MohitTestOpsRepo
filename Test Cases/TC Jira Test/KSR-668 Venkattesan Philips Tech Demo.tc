@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Summary: Venkattesan&lt;> Philips&lt;> Tech Demo
+Description: Hi team,
+
+We have a cloent who wants a tech demo on a mobile testing for ios and how to run it on windows computer. - including a walkthrough of simulators and emulators installation and usage in Katalon.
+
+Please let me know if I can schedule this for Tuesday next week (7th September).
+
+</description>
+   <name>KSR-668 Venkattesan Philips Tech Demo</name>
+   <tag>jira-integration</tag>
+   <integratedEntity>
+      <productName>JIRA</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;jiraIssue&quot;:{&quot;fields&quot;:{&quot;customFields&quot;:{&quot;customfield_10150&quot;:[],&quot;customfield_10018&quot;:[],&quot;customfield_10007&quot;:{&quot;hasEpicLinkFieldDependency&quot;:false,&quot;showField&quot;:false,&quot;nonEditableReason&quot;:{&quot;reason&quot;:&quot;PLUGIN_LICENSE_ERROR&quot;,&quot;message&quot;:&quot;The Parent Link is only available to Jira Premium users.&quot;}},&quot;customfield_10009&quot;:&quot;0|i08lyf:&quot;,&quot;customfield_10000&quot;:&quot;{}&quot;},&quot;status&quot;:{&quot;id&quot;:10128,&quot;description&quot;:&quot;&quot;,&quot;iconUrl&quot;:&quot;https://katalon.atlassian.net/&quot;,&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/status/10128&quot;,&quot;name&quot;:&quot;[SC] In Review&quot;},&quot;project&quot;:{&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/project/10058&quot;,&quot;key&quot;:&quot;KSR&quot;,&quot;id&quot;:10058,&quot;name&quot;:&quot;Katalon Support Request&quot;},&quot;components&quot;:[],&quot;summary&quot;:&quot;Venkattesan\u003c\u003e Philips\u003c\u003e Tech Demo&quot;,&quot;description&quot;:&quot;Hi team,\r\n\r\nWe have a cloent who wants a tech demo on a mobile testing for ios and how to run it on windows computer. - including a walkthrough of simulators and emulators installation and usage in Katalon.\r\n\r\nPlease let me know if I can schedule this for Tuesday next week (7th September).\r\n\r\n&quot;,&quot;reporter&quot;:{&quot;emailAddress&quot;:&quot;pushkal.mehrish@katalon.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;pushkal.mehrish&quot;,&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/user?accountId\u003d60d00d72b215610069ed3408&quot;},&quot;assignee&quot;:{&quot;emailAddress&quot;:&quot;mohit.kumar@katalon.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;mohit.kumar&quot;,&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/user?accountId\u003d6093a042539c14006ad201b5&quot;},&quot;priority&quot;:{&quot;id&quot;:3,&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/priority/3&quot;,&quot;name&quot;:&quot;Medium&quot;},&quot;votes&quot;:{&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/issue/KSR-668/votes&quot;,&quot;votes&quot;:0,&quot;hasVoted&quot;:false},&quot;fixVersions&quot;:[],&quot;subtasks&quot;:[],&quot;labels&quot;:[]},&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/issue/61232&quot;,&quot;key&quot;:&quot;KSR-668&quot;,&quot;id&quot;:61232}}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <testCaseGuid>95f0e3c1-6b77-45dc-80fb-6c9f383523d7</testCaseGuid>
+</TestCaseEntity>

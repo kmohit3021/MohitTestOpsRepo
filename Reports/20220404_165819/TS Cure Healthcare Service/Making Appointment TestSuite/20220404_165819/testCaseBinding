@@ -1,0 +1,5 @@
+{"testCaseName":"Test Cases/TC Web Application/CURA Healthcare Service/Appointment/Open Browser","testCaseId":"Test Cases/TC Web Application/CURA Healthcare Service/Appointment/Open Browser"}
+{"testCaseName":"Test Cases/TC Web Application/CURA Healthcare Service/Appointment/Click on Login Link","testCaseId":"Test Cases/TC Web Application/CURA Healthcare Service/Appointment/Click on Login Link"}
+{"testCaseName":"Test Cases/TC Web Application/CURA Healthcare Service/Appointment/Login Application","testCaseId":"Test Cases/TC Web Application/CURA Healthcare Service/Appointment/Login Application"}
+{"testCaseName":"Test Cases/TC Web Application/CURA Healthcare Service/Appointment/Make Appointment","testCaseId":"Test Cases/TC Web Application/CURA Healthcare Service/Appointment/Make Appointment","bindedValues":{"Comment":"\u0027This Test Case Make an Appointment.\u0027","Facility":"\u0027Hongkong CURA Healthcare Center\u0027","VisitDate":"\u002719/05/2021\u0027"}}
+{"testCaseName":"Test Cases/TC Web Application/CURA Healthcare Service/Appointment/Logout Application","testCaseId":"Test Cases/TC Web Application/CURA Healthcare Service/Appointment/Logout Application"}

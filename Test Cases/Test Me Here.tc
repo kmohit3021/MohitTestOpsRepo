@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Me Here</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>64e0184f-d989-430e-bb66-381f3d6206fe</testCaseGuid>
+   <variable>
+      <defaultValue>'mohit, mo, hit'</defaultValue>
+      <description></description>
+      <id>979cf1d1-be5a-4840-b2f5-2c66b9c976e7</id>
+      <masked>false</masked>
+      <name>Options</name>
+   </variable>
+</TestCaseEntity>

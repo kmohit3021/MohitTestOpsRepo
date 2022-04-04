@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Upload multiple file from the desktop</name>
+   <tag>sanity</tag>
+   <comment></comment>
+   <testCaseGuid>7c0b59b6-98af-489b-86af-ed3a1ff8e811</testCaseGuid>
+</TestCaseEntity>

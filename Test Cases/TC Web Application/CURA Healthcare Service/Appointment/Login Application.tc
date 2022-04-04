@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login test</description>
+   <name>Login Application</name>
+   <tag>Login</tag>
+   <comment></comment>
+   <testCaseGuid>287b53ed-585e-46f7-bf0f-a0780b2376f0</testCaseGuid>
+   <variable>
+      <defaultValue>'Make Appointment'</defaultValue>
+      <description></description>
+      <id>22c3aef3-816d-4b8b-9361-7e2fe7868a4b</id>
+      <masked>false</masked>
+      <name>varMakeAppointment</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>36200139-eb2c-4b98-9c40-3a2cf9e07dcf</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>74e718d6-95ad-4c24-8230-afd336f47b26</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

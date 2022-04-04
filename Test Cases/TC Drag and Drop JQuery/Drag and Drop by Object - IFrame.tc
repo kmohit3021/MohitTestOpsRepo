@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This Test Case is relared to the Drag and Drop functionality</description>
+   <name>Drag and Drop by Object - IFrame</name>
+   <tag>dragdrop</tag>
+   <comment></comment>
+   <testCaseGuid>b5c61468-4476-439f-b8c1-28719216e114</testCaseGuid>
+</TestCaseEntity>

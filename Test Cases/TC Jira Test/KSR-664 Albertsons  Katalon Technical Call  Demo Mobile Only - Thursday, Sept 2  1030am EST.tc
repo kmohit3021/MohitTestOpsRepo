@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Summary: Albertsons / Katalon Technical Call &amp; Demo Mobile Only - Thursday, Sept 2 @ 10:30am EST
+Description: Hi Team,
+
+We have a high priority call for Albertsons for this Thursday at 10:30am EST that will be for native app mobile only testing. They are experiencing crashes in production and they are looking to remedy that via a non open source tool.
+
+Currently using Selenium, Cucumber and Perfecto for devices. One interesting challenge is that they want to test how the devices work in low network modes. When I asked for an explanation it seemed to be something where the signal strength is not great and the app crashes. I'm not sure how we handle it but we need to be prepared to discuss.
+
+Another is testing random movements such as swiping, screen changes, scrolling etc....
+
+Integrations into Jenkins will be a key item to cover as well. </description>
+   <name>KSR-664 Albertsons  Katalon Technical Call  Demo Mobile Only - Thursday, Sept 2  1030am EST</name>
+   <tag>jira-integration</tag>
+   <integratedEntity>
+      <productName>JIRA</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;jiraIssue&quot;:{&quot;fields&quot;:{&quot;customFields&quot;:{&quot;customfield_10150&quot;:[],&quot;customfield_10018&quot;:[],&quot;customfield_10007&quot;:{&quot;hasEpicLinkFieldDependency&quot;:false,&quot;showField&quot;:false,&quot;nonEditableReason&quot;:{&quot;reason&quot;:&quot;PLUGIN_LICENSE_ERROR&quot;,&quot;message&quot;:&quot;The Parent Link is only available to Jira Premium users.&quot;}},&quot;customfield_10009&quot;:&quot;0|i08lrj:&quot;,&quot;customfield_10080&quot;:&quot;Albertsons&quot;,&quot;customfield_10081&quot;:{&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/customFieldOption/10137&quot;,&quot;value&quot;:&quot;Enterprise&quot;,&quot;id&quot;:&quot;10137&quot;},&quot;customfield_10082&quot;:{&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/customFieldOption/10164&quot;,&quot;value&quot;:&quot;20-50&quot;,&quot;id&quot;:&quot;10164&quot;},&quot;customfield_10085&quot;:[{&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/customFieldOption/10144&quot;,&quot;value&quot;:&quot;Studio&quot;,&quot;id&quot;:&quot;10144&quot;}],&quot;customfield_10000&quot;:&quot;{}&quot;},&quot;status&quot;:{&quot;id&quot;:10131,&quot;description&quot;:&quot;&quot;,&quot;iconUrl&quot;:&quot;https://katalon.atlassian.net/&quot;,&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/status/10131&quot;,&quot;name&quot;:&quot;OPEN&quot;},&quot;project&quot;:{&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/project/10058&quot;,&quot;key&quot;:&quot;KSR&quot;,&quot;id&quot;:10058,&quot;name&quot;:&quot;Katalon Support Request&quot;},&quot;components&quot;:[],&quot;summary&quot;:&quot;Albertsons / Katalon Technical Call \u0026 Demo Mobile Only - Thursday, Sept 2 @ 10:30am EST&quot;,&quot;description&quot;:&quot;Hi Team,\r\n\r\nWe have a high priority call for Albertsons for this Thursday at 10:30am EST that will be for native app mobile only testing. They are experiencing crashes in production and they are looking to remedy that via a non open source tool.\r\n\r\nCurrently using Selenium, Cucumber and Perfecto for devices. One interesting challenge is that they want to test how the devices work in low network modes. When I asked for an explanation it seemed to be something where the signal strength is not great and the app crashes. I\u0027m not sure how we handle it but we need to be prepared to discuss.\r\n\r\nAnother is testing random movements such as swiping, screen changes, scrolling etc....\r\n\r\nIntegrations into Jenkins will be a key item to cover as well. &quot;,&quot;reporter&quot;:{&quot;emailAddress&quot;:&quot;chris@katalon.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;chris&quot;,&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/user?accountId\u003d5f5f2430b9fcc10077178224&quot;},&quot;assignee&quot;:{&quot;emailAddress&quot;:&quot;mohit.kumar@katalon.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;mohit.kumar&quot;,&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/user?accountId\u003d6093a042539c14006ad201b5&quot;},&quot;priority&quot;:{&quot;id&quot;:1,&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/priority/1&quot;,&quot;name&quot;:&quot;Highest&quot;},&quot;votes&quot;:{&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/issue/KSR-664/votes&quot;,&quot;votes&quot;:0,&quot;hasVoted&quot;:false},&quot;fixVersions&quot;:[],&quot;subtasks&quot;:[],&quot;labels&quot;:[]},&quot;self&quot;:&quot;https://katalon.atlassian.net/rest/api/2/issue/61198&quot;,&quot;key&quot;:&quot;KSR-664&quot;,&quot;id&quot;:61198}}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <testCaseGuid>292ea164-00ce-41d2-900c-e4f366848223</testCaseGuid>
+</TestCaseEntity>

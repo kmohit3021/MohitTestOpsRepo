@@ -1,0 +1,57 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Failure is the expected marked test as passed,Chrome 99.0.4844.84,,,2022-04-04 16:56:11,2022-04-04 16:56:35,23.922s,PASSED
+,,,,,,,
+Test Cases/TC Web Application/CURA Healthcare Service/Appointment/Open Browser,Chrome 99.0.4844.84,This test case is for opening the application on the browser,Browser,2022-04-04 16:56:12,2022-04-04 16:56:19,7.782s,PASSED
+Start listener action : enableSauceLabs,Chrome 99.0.4844.84,,,2022-04-04 16:56:12,2022-04-04 16:56:12,0.013s,PASSED
+openBrowser(URL),Chrome 99.0.4844.84,,,2022-04-04 16:56:12,2022-04-04 16:56:18,6.616s,PASSED
+maximizeWindow(),Chrome 99.0.4844.84,,,2022-04-04 16:56:18,2022-04-04 16:56:19,0.192s,PASSED
+strTitle = getWindowTitle(),Chrome 99.0.4844.84,,,2022-04-04 16:56:19,2022-04-04 16:56:19,0.027s,PASSED
+"verifyMatch(strTitle, ""CURA Healthcare Service"", false)",Chrome 99.0.4844.84,,,2022-04-04 16:56:19,2022-04-04 16:56:19,0.022s,PASSED
+Start listener action : autoUpdateJobStatus,Chrome 99.0.4844.84,,,2022-04-04 16:56:19,2022-04-04 16:56:19,0.001s,PASSED
+,,,,,,,
+Test Cases/TC Web Application/CURA Healthcare Service/Appointment/Click on Login Link,Chrome 99.0.4844.84,This test case is for opening the application on the browser,Browser,2022-04-04 16:56:19,2022-04-04 16:56:21,1.902s,PASSED
+Start listener action : enableSauceLabs,Chrome 99.0.4844.84,,,2022-04-04 16:56:19,2022-04-04 16:56:19,0.001s,PASSED
+"click(findTestObject(""OR Web Application/CURA Healthcare Service/Home Page/menu-toggle""))",Chrome 99.0.4844.84,,,2022-04-04 16:56:20,2022-04-04 16:56:20,0.176s,PASSED
+"click(findTestObject(""OR Web Application/CURA Healthcare Service/Home Page/Login link""))",Chrome 99.0.4844.84,,,2022-04-04 16:56:20,2022-04-04 16:56:20,0.693s,PASSED
+"verifyElementText(findTestObject(""OR Web Application/CURA Healthcare Service/Login Page/Please login to make appointment""), ""Please login to make appointment."")",Chrome 99.0.4844.84,,,2022-04-04 16:56:20,2022-04-04 16:56:21,0.191s,PASSED
+Start listener action : autoUpdateJobStatus,Chrome 99.0.4844.84,,,2022-04-04 16:56:21,2022-04-04 16:56:21,0.001s,PASSED
+,,,,,,,
+Test Cases/TC Web Application/CURA Healthcare Service/Data Driven/DDT Failure Expected Mark Test Pass,Chrome 99.0.4844.84,This my Data Driveb Test case,DataDriven,2022-04-04 16:56:21,2022-04-04 16:56:24,3.081s,PASSED
+Start listener action : enableSauceLabs,Chrome 99.0.4844.84,,,2022-04-04 16:56:21,2022-04-04 16:56:21,0.001s,PASSED
+"setText(findTestObject(""OR Web Application/CURA Healthcare Service/Login Page/input_Username""), username)",Chrome 99.0.4844.84,,,2022-04-04 16:56:21,2022-04-04 16:56:22,0.270s,PASSED
+takeScreenshot(),Chrome 99.0.4844.84,,,2022-04-04 16:56:22,2022-04-04 16:56:22,0.323s,PASSED
+"setText(findTestObject(""OR Web Application/CURA Healthcare Service/Login Page/input_Password""), password)",Chrome 99.0.4844.84,,,2022-04-04 16:56:22,2022-04-04 16:56:22,0.152s,PASSED
+takeScreenshot(),Chrome 99.0.4844.84,,,2022-04-04 16:56:22,2022-04-04 16:56:23,0.316s,PASSED
+"click(findTestObject(""OR Web Application/CURA Healthcare Service/Login Page/button_Login""))",Chrome 99.0.4844.84,,,2022-04-04 16:56:23,2022-04-04 16:56:23,0.738s,PASSED
+takeScreenshot(),Chrome 99.0.4844.84,,,2022-04-04 16:56:23,2022-04-04 16:56:24,0.342s,PASSED
+"webKeywords.ApplicationFunction.failureExpectedMarkLoginTestPass(findTestObject(""OR Web Application/CURA Healthcare Service/Login Page/Login failed Please ensure the username""))",Chrome 99.0.4844.84,,,2022-04-04 16:56:24,2022-04-04 16:56:24,0.136s,PASSED
+Start listener action : autoUpdateJobStatus,Chrome 99.0.4844.84,,,2022-04-04 16:56:24,2022-04-04 16:56:24,0.000s,PASSED
+,,,,,,,
+Test Cases/TC Web Application/CURA Healthcare Service/Data Driven/DDT Failure Expected Mark Test Pass,Chrome 99.0.4844.84,This my Data Driveb Test case,DataDriven,2022-04-04 16:56:24,2022-04-04 16:56:27,2.770s,PASSED
+Start listener action : enableSauceLabs,Chrome 99.0.4844.84,,,2022-04-04 16:56:24,2022-04-04 16:56:24,0.000s,PASSED
+"setText(findTestObject(""OR Web Application/CURA Healthcare Service/Login Page/input_Username""), username)",Chrome 99.0.4844.84,,,2022-04-04 16:56:24,2022-04-04 16:56:25,0.199s,PASSED
+takeScreenshot(),Chrome 99.0.4844.84,,,2022-04-04 16:56:25,2022-04-04 16:56:25,0.310s,PASSED
+"setText(findTestObject(""OR Web Application/CURA Healthcare Service/Login Page/input_Password""), password)",Chrome 99.0.4844.84,,,2022-04-04 16:56:25,2022-04-04 16:56:25,0.134s,PASSED
+takeScreenshot(),Chrome 99.0.4844.84,,,2022-04-04 16:56:25,2022-04-04 16:56:25,0.330s,PASSED
+"click(findTestObject(""OR Web Application/CURA Healthcare Service/Login Page/button_Login""))",Chrome 99.0.4844.84,,,2022-04-04 16:56:25,2022-04-04 16:56:26,0.708s,PASSED
+takeScreenshot(),Chrome 99.0.4844.84,,,2022-04-04 16:56:26,2022-04-04 16:56:26,0.357s,PASSED
+"webKeywords.ApplicationFunction.failureExpectedMarkLoginTestPass(findTestObject(""OR Web Application/CURA Healthcare Service/Login Page/Login failed Please ensure the username""))",Chrome 99.0.4844.84,,,2022-04-04 16:56:26,2022-04-04 16:56:27,0.115s,PASSED
+Start listener action : autoUpdateJobStatus,Chrome 99.0.4844.84,,,2022-04-04 16:56:27,2022-04-04 16:56:27,0.001s,PASSED
+,,,,,,,
+Test Cases/TC Web Application/CURA Healthcare Service/Data Driven/DDT Failure Expected Mark Test Pass,Chrome 99.0.4844.84,This my Data Driveb Test case,DataDriven,2022-04-04 16:56:27,2022-04-04 16:56:35,7.834s,PASSED
+Start listener action : enableSauceLabs,Chrome 99.0.4844.84,,,2022-04-04 16:56:27,2022-04-04 16:56:27,0.000s,PASSED
+"setText(findTestObject(""OR Web Application/CURA Healthcare Service/Login Page/input_Username""), username)",Chrome 99.0.4844.84,,,2022-04-04 16:56:27,2022-04-04 16:56:27,0.194s,PASSED
+takeScreenshot(),Chrome 99.0.4844.84,,,2022-04-04 16:56:27,2022-04-04 16:56:28,0.317s,PASSED
+"setText(findTestObject(""OR Web Application/CURA Healthcare Service/Login Page/input_Password""), password)",Chrome 99.0.4844.84,,,2022-04-04 16:56:28,2022-04-04 16:56:28,0.169s,PASSED
+takeScreenshot(),Chrome 99.0.4844.84,,,2022-04-04 16:56:28,2022-04-04 16:56:28,0.318s,PASSED
+"click(findTestObject(""OR Web Application/CURA Healthcare Service/Login Page/button_Login""))",Chrome 99.0.4844.84,,,2022-04-04 16:56:28,2022-04-04 16:56:29,0.680s,PASSED
+takeScreenshot(),Chrome 99.0.4844.84,,,2022-04-04 16:56:29,2022-04-04 16:56:29,0.412s,PASSED
+"webKeywords.ApplicationFunction.failureExpectedMarkLoginTestPass(findTestObject(""OR Web Application/CURA Healthcare Service/Login Page/Login failed Please ensure the username""))",Chrome 99.0.4844.84,,,2022-04-04 16:56:29,2022-04-04 16:56:34,5.056s,PASSED
+Start listener action : autoUpdateJobStatus,Chrome 99.0.4844.84,,,2022-04-04 16:56:34,2022-04-04 16:56:34,0.001s,PASSED
+,,,,,,,
+Test Cases/TC Web Application/CURA Healthcare Service/Appointment/Logout Application,Chrome 99.0.4844.84,This is for appliction Logout,,2022-04-04 16:56:35,2022-04-04 16:56:35,0.283s,PASSED
+Start listener action : enableSauceLabs,Chrome 99.0.4844.84,,,2022-04-04 16:56:35,2022-04-04 16:56:35,0.001s,PASSED
+"click(findTestObject(""OR Web Application/CURA Healthcare Service/Home Page/menu-toggle""))",Chrome 99.0.4844.84,,,2022-04-04 16:56:35,2022-04-04 16:56:35,0.003s,NOT_RUN
+"click(findTestObject(""OR Web Application/CURA Healthcare Service/Home Page/Logout""))",Chrome 99.0.4844.84,,,2022-04-04 16:56:35,2022-04-04 16:56:35,0.000s,NOT_RUN
+closeBrowser(),Chrome 99.0.4844.84,,,2022-04-04 16:56:35,2022-04-04 16:56:35,0.000s,NOT_RUN
+Start listener action : autoUpdateJobStatus,Chrome 99.0.4844.84,,,2022-04-04 16:56:35,2022-04-04 16:56:35,0.000s,PASSED

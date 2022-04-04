@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Minus number</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5d2893df-fec7-4823-a64b-81b7e9012fb2</testCaseGuid>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>f12457c1-588d-4420-b1e3-51ff35b6fc94</id>
+      <masked>false</masked>
+      <name>firstOperand</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>8c40b528-86ba-4e82-83d6-ba530fb36dde</id>
+      <masked>false</masked>
+      <name>secondOperand</name>
+   </variable>
+</TestCaseEntity>

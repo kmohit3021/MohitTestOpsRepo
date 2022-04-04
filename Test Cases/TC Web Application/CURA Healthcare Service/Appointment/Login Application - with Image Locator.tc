@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login test</description>
+   <name>Login Application - with Image Locator</name>
+   <tag>Login</tag>
+   <comment></comment>
+   <testCaseGuid>d3013cef-976c-4e31-991e-59a05c4e4b07</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TestOps Visual Testing for Web</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>534f7799-cc1d-4be0-b6c3-9f02ec9b9d14</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>15d95d92-9380-4077-ac21-22dc998e78e3</id>
+      <masked>false</masked>
+      <name>Facility</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6784b7cd-8892-4ce8-800b-bc744adce837</id>
+      <masked>false</masked>
+      <name>VisitDate</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6147c568-625f-49b8-bd45-e33003ddab6d</id>
+      <masked>false</masked>
+      <name>Comment</name>
+   </variable>
+</TestCaseEntity>
